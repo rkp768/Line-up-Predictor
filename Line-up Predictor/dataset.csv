@@ -1,0 +1,501 @@
+p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,WI,AUS,PAK,ZIM,SL,NZ,EN,BAN
+SV Manjrekar,MS Dhoni,Yuvraj Singh,M Azharuddin,NS Sidhu,SC Ganguly,S Sreesanth,EAS Prasanna,BKV Prasad,SLV Raju,BS Bedi,0.99,0.13,0.29,0.06,0.5700000000000001,0.14,0.6900000000000001,0.13
+R Dravid,AL Wadekar,KS More,MS Dhoni,AD Gaekwad,SMH Kirmani,I Sharma,KD Ghavri,NS Yadav,BS Chandrasekhar,PP Ojha,0.02,0.49,0.47000000000000003,0.89,0.31,0.68,0.49,0.6
+V Kohli,SMH Kirmani,ED Solkar,GR Viswanath,S Ramesh,AD Gaekwad,Maninder Singh,I Sharma,DR Doshi,BS Chandrasekhar,KD Ghavri,0.25,0.9,0.61,0.93,0.5700000000000001,0.65,0.17,0.4
+G Gambhir,SM Patil,Yuvraj Singh,R Dravid,ED Solkar,Yashpal Sharma,KD Ghavri,NS Yadav,S Sreesanth,R Ashwin,AB Agarkar,0.47000000000000003,0.81,0.87,0.21,0.27,0.04,0.07,0.06
+CPS Chauhan,NS Sidhu,S Ramesh,SMH Kirmani,SS Das,FM Engineer,DR Doshi,S Venkataraghavan,I Sharma,NS Yadav,Maninder Singh,0.61,0.66,0.46,0.24,0.27,0.43,0.27,0.64
+DB Vengsarkar,CPS Chauhan,M Vijay,R Dravid,NR Mongia,VVS Laxman,AB Agarkar,PP Ojha,R Ashwin,C Sharma,KD Ghavri,0.93,0.86,0.23,0.8200000000000001,0.88,0.17,0.9,0.84
+SM Patil,MS Dhoni,M Azharuddin,DB Vengsarkar,W Jaffer,Yashpal Sharma,AB Agarkar,NS Yadav,BS Bedi,BKV Prasad,DR Doshi,0.55,0.66,0.76,0.32,0.06,0.16,0.62,0.42
+SM Gavaskar,W Jaffer,V Sehwag,AL Wadekar,DN Sardesai,GR Viswanath,S Venkataraghavan,SLV Raju,AB Agarkar,BS Bedi,I Sharma,0.49,0.46,0.61,0.48,0.64,0.24,0.14,0.81
+KS More,SC Ganguly,SR Tendulkar,SV Manjrekar,Yashpal Sharma,MAK Pataudi,KD Ghavri,I Sharma,EAS Prasanna,SLV Raju,BKV Prasad,0.4,0.89,0.28,0.6900000000000001,0.73,0.46,0.49,0.52
+DB Vengsarkar,V Sehwag,AL Wadekar,SM Gavaskar,SM Patil,R Dravid,BKV Prasad,BS Bedi,KD Ghavri,S Venkataraghavan,Maninder Singh,0.65,0.25,0.79,0.68,0.01,0.04,0.47000000000000003,0.09
+MAK Pataudi,CPS Chauhan,W Jaffer,VVS Laxman,SS Das,K Srikkanth,AB Agarkar,I Sharma,PP Ojha,S Venkataraghavan,R Ashwin,0.8,0.81,0.4,0.76,0.72,0.93,0.26,0.14
+CPS Chauhan,DB Vengsarkar,NR Mongia,G Gambhir,SM Patil,Yuvraj Singh,SLV Raju,BS Chandrasekhar,AB Agarkar,DR Doshi,EAS Prasanna,0.36,0.32,0.77,0.08,0.62,0.58,0.14,0.97
+SM Gavaskar,SR Tendulkar,VVS Laxman,SS Das,W Jaffer,DN Sardesai,BKV Prasad,BS Chandrasekhar,S Venkataraghavan,PP Ojha,EAS Prasanna,0.43,0.11,0.01,0.0,0.72,0.88,0.02,0.66
+AD Gaekwad,FM Engineer,W Jaffer,SS Das,SV Manjrekar,G Gambhir,R Ashwin,AB Agarkar,PP Ojha,DR Doshi,EAS Prasanna,0.23,0.45,0.92,0.08,0.18,0.16,0.72,0.39
+NS Sidhu,V Sehwag,AD Gaekwad,Yuvraj Singh,SR Tendulkar,M Amarnath,R Ashwin,Maninder Singh,S Sreesanth,KD Ghavri,I Sharma,0.36,0.49,0.9500000000000001,0.26,0.49,0.46,0.9400000000000001,0.48
+GR Viswanath,S Abid Ali,K Srikkanth,CPS Chauhan,DN Sardesai,AL Wadekar,KD Ghavri,PP Ojha,NS Yadav,S Venkataraghavan,BS Chandrasekhar,0.59,0.37,0.8,0.38,0.49,0.05,0.08,0.67
+K Srikkanth,NR Mongia,G Gambhir,SM Patil,SM Gavaskar,M Azharuddin,NS Yadav,S Sreesanth,R Ashwin,EAS Prasanna,AB Agarkar,0.53,0.75,0.92,0.58,0.88,0.97,0.45,0.87
+SR Tendulkar,SC Ganguly,S Abid Ali,MS Dhoni,SM Patil,M Azharuddin,R Ashwin,BKV Prasad,PP Ojha,KD Ghavri,I Sharma,0.71,0.92,0.74,0.22,0.37,0.05,0.35000000000000003,0.79
+Yashpal Sharma,SR Tendulkar,CA Pujara,R Dravid,MAK Pataudi,Yuvraj Singh,BKV Prasad,R Ashwin,S Venkataraghavan,SLV Raju,BS Bedi,0.2,0.3,0.78,0.89,0.97,0.51,0.27,0.46
+SMH Kirmani,MAK Pataudi,NS Sidhu,GR Viswanath,ED Solkar,FM Engineer,BS Chandrasekhar,PP Ojha,S Venkataraghavan,I Sharma,NS Yadav,0.65,0.34,0.14,0.06,0.45,0.96,0.11,0.99
+R Dravid,SM Gavaskar,AL Wadekar,AD Gaekwad,KS More,V Sehwag,S Sreesanth,DR Doshi,EAS Prasanna,AB Agarkar,S Venkataraghavan,0.11,0.02,0.14,0.01,0.06,0.65,0.45,0.39
+M Vijay,SC Ganguly,SR Tendulkar,AL Wadekar,DN Sardesai,S Ramesh,AB Agarkar,R Ashwin,BKV Prasad,PP Ojha,KD Ghavri,0.29,0.76,0.07,0.09,0.71,0.77,0.41000000000000003,0.5
+ED Solkar,GR Viswanath,DB Vengsarkar,M Vijay,NR Mongia,AD Gaekwad,S Venkataraghavan,KD Ghavri,DR Doshi,SLV Raju,BS Bedi,0.27,0.5,0.67,0.02,0.29,0.35000000000000003,0.79,0.13
+V Sehwag,SR Tendulkar,M Vijay,GR Viswanath,V Kohli,KS More,SLV Raju,I Sharma,PP Ojha,Maninder Singh,DR Doshi,0.89,0.05,0.14,0.17,0.92,0.18,0.18,0.71
+K Srikkanth,SMH Kirmani,MAK Pataudi,R Dravid,G Gambhir,W Jaffer,BKV Prasad,Maninder Singh,BS Chandrasekhar,NS Yadav,DR Doshi,0.37,0.5700000000000001,0.61,0.8,0.25,0.54,0.75,0.28
+FM Engineer,NS Sidhu,G Gambhir,M Vijay,S Ramesh,ED Solkar,AB Agarkar,DR Doshi,PP Ojha,KD Ghavri,SLV Raju,0.08,0.9400000000000001,0.05,0.08,0.97,0.14,0.5,0.37
+FM Engineer,CPS Chauhan,NR Mongia,SM Patil,MAK Pataudi,Yashpal Sharma,EAS Prasanna,PP Ojha,BS Chandrasekhar,BKV Prasad,SLV Raju,0.03,0.68,0.04,0.84,0.73,0.33,0.8300000000000001,0.42
+M Amarnath,MS Dhoni,Yuvraj Singh,NR Mongia,KS More,V Sehwag,I Sharma,KD Ghavri,R Ashwin,NS Yadav,S Sreesanth,0.8200000000000001,0.11,0.58,0.26,0.1,0.25,0.78,0.99
+V Kohli,Yuvraj Singh,S Ramesh,AD Gaekwad,V Sehwag,SS Das,R Ashwin,BS Chandrasekhar,S Sreesanth,NS Yadav,BS Bedi,0.84,0.87,0.86,0.75,0.4,0.5,0.81,0.47000000000000003
+SMH Kirmani,Yashpal Sharma,CPS Chauhan,SS Das,VVS Laxman,KS More,S Sreesanth,PP Ojha,BS Bedi,BKV Prasad,KD Ghavri,0.71,0.9,0.61,0.38,0.84,0.44,0.98,0.58
+W Jaffer,AD Gaekwad,AL Wadekar,S Abid Ali,K Srikkanth,ED Solkar,NS Yadav,BS Chandrasekhar,KD Ghavri,BKV Prasad,DR Doshi,0.09,0.9400000000000001,0.93,0.52,0.65,0.3,0.61,0.42
+AD Gaekwad,MAK Pataudi,SS Das,VVS Laxman,NS Sidhu,MS Dhoni,EAS Prasanna,DR Doshi,SLV Raju,BKV Prasad,C Sharma,0.81,0.04,0.15,0.62,0.35000000000000003,0.55,0.37,0.06
+G Gambhir,CA Pujara,R Dravid,MS Dhoni,Yashpal Sharma,S Abid Ali,BS Bedi,Maninder Singh,PP Ojha,NS Yadav,BS Chandrasekhar,0.17,0.06,0.12,0.54,0.41000000000000003,0.13,0.53,0.91
+V Sehwag,SM Gavaskar,CPS Chauhan,Yuvraj Singh,CA Pujara,Yashpal Sharma,AB Agarkar,Maninder Singh,BS Chandrasekhar,PP Ojha,C Sharma,0.25,0.32,0.18,0.76,0.96,0.88,0.52,0.64
+AL Wadekar,SV Manjrekar,KS More,W Jaffer,NR Mongia,ED Solkar,S Venkataraghavan,BS Chandrasekhar,PP Ojha,R Ashwin,KD Ghavri,0.53,0.0,0.41000000000000003,0.46,0.25,0.5700000000000001,0.5700000000000001,0.26
+V Sehwag,SMH Kirmani,M Azharuddin,M Amarnath,SV Manjrekar,ED Solkar,BS Chandrasekhar,S Sreesanth,BS Bedi,EAS Prasanna,DR Doshi,0.8,0.99,0.49,0.01,0.77,0.41000000000000003,0.78,0.9500000000000001
+V Kohli,K Srikkanth,SR Tendulkar,FM Engineer,M Amarnath,AL Wadekar,R Ashwin,PP Ojha,C Sharma,BS Bedi,BS Chandrasekhar,0.78,0.06,0.8300000000000001,0.02,0.6,0.79,0.98,0.98
+VVS Laxman,NR Mongia,MAK Pataudi,V Sehwag,SC Ganguly,MS Dhoni,Maninder Singh,KD Ghavri,BKV Prasad,EAS Prasanna,I Sharma,0.3,0.42,0.04,0.43,0.86,0.14,0.41000000000000003,0.0
+KS More,R Dravid,DN Sardesai,M Azharuddin,K Srikkanth,M Vijay,S Sreesanth,BKV Prasad,I Sharma,KD Ghavri,SLV Raju,0.44,0.11,0.8300000000000001,0.44,0.75,0.38,0.96,0.28
+DB Vengsarkar,Yashpal Sharma,AD Gaekwad,M Azharuddin,VVS Laxman,AL Wadekar,I Sharma,NS Yadav,S Sreesanth,S Venkataraghavan,Maninder Singh,0.52,0.02,0.25,0.98,0.8200000000000001,0.29,0.97,0.98
+SM Gavaskar,V Kohli,SS Das,M Amarnath,AL Wadekar,GR Viswanath,R Ashwin,S Sreesanth,S Venkataraghavan,EAS Prasanna,NS Yadav,0.61,0.19,0.64,0.55,0.85,0.81,0.86,0.01
+V Sehwag,NS Sidhu,SC Ganguly,V Kohli,KS More,SR Tendulkar,KD Ghavri,BS Bedi,I Sharma,PP Ojha,BKV Prasad,0.15,0.18,0.75,0.97,0.14,0.76,0.09,0.42
+S Ramesh,DB Vengsarkar,S Abid Ali,K Srikkanth,NS Sidhu,MAK Pataudi,C Sharma,S Venkataraghavan,PP Ojha,AB Agarkar,BS Bedi,0.19,0.24,0.66,0.65,0.32,0.96,0.6,0.25
+ED Solkar,S Ramesh,SR Tendulkar,MS Dhoni,GR Viswanath,Yashpal Sharma,S Venkataraghavan,C Sharma,DR Doshi,AB Agarkar,S Sreesanth,0.71,0.61,0.9,0.49,0.55,0.73,0.12,0.06
+VVS Laxman,Yuvraj Singh,DB Vengsarkar,M Azharuddin,AD Gaekwad,MS Dhoni,SLV Raju,C Sharma,S Sreesanth,R Ashwin,PP Ojha,0.9400000000000001,0.92,0.63,0.43,0.23,0.8,0.5700000000000001,0.19
+SC Ganguly,M Azharuddin,R Dravid,M Vijay,DB Vengsarkar,AD Gaekwad,BKV Prasad,S Sreesanth,BS Chandrasekhar,EAS Prasanna,DR Doshi,0.89,0.66,0.54,0.8200000000000001,0.44,0.79,0.64,0.16
+V Kohli,SR Tendulkar,GR Viswanath,V Sehwag,NR Mongia,SS Das,BS Bedi,AB Agarkar,S Venkataraghavan,PP Ojha,Maninder Singh,0.8300000000000001,0.67,0.54,0.8300000000000001,0.91,0.03,0.51,0.3
+SM Gavaskar,Yashpal Sharma,DB Vengsarkar,CPS Chauhan,MAK Pataudi,DN Sardesai,R Ashwin,S Sreesanth,KD Ghavri,S Venkataraghavan,BKV Prasad,0.42,0.3,0.3,0.79,0.49,0.13,0.5700000000000001,0.73
+DN Sardesai,VVS Laxman,M Vijay,AD Gaekwad,W Jaffer,MS Dhoni,DR Doshi,BKV Prasad,BS Chandrasekhar,S Venkataraghavan,AB Agarkar,0.1,0.06,0.99,0.05,0.8,0.17,0.56,0.04
+SV Manjrekar,S Abid Ali,KS More,FM Engineer,CPS Chauhan,W Jaffer,S Sreesanth,S Venkataraghavan,R Ashwin,BKV Prasad,BS Bedi,0.6,0.76,0.78,0.03,0.15,0.27,0.36,0.9500000000000001
+SMH Kirmani,MS Dhoni,R Dravid,NS Sidhu,V Sehwag,FM Engineer,S Venkataraghavan,BKV Prasad,SLV Raju,NS Yadav,PP Ojha,0.43,0.2,0.45,0.81,0.12,0.73,0.49,0.3
+DB Vengsarkar,CA Pujara,M Amarnath,DN Sardesai,G Gambhir,SC Ganguly,BKV Prasad,R Ashwin,BS Chandrasekhar,SLV Raju,BS Bedi,0.99,0.32,0.08,0.63,0.64,0.62,0.09,0.5700000000000001
+M Azharuddin,W Jaffer,S Abid Ali,SV Manjrekar,KS More,SC Ganguly,BS Chandrasekhar,S Sreesanth,S Venkataraghavan,I Sharma,KD Ghavri,0.16,0.12,0.8,0.8200000000000001,0.38,0.66,0.8,0.46
+SM Patil,K Srikkanth,M Azharuddin,SMH Kirmani,MAK Pataudi,W Jaffer,S Venkataraghavan,BKV Prasad,Maninder Singh,C Sharma,S Sreesanth,0.1,0.6,0.81,0.39,0.41000000000000003,0.8200000000000001,0.06,0.4
+NR Mongia,V Kohli,SR Tendulkar,ED Solkar,SM Patil,Yuvraj Singh,KD Ghavri,BS Bedi,BS Chandrasekhar,AB Agarkar,C Sharma,0.9400000000000001,0.13,0.61,0.84,0.24,0.6900000000000001,0.64,0.27
+FM Engineer,V Kohli,AL Wadekar,CA Pujara,W Jaffer,KS More,EAS Prasanna,PP Ojha,BS Bedi,BKV Prasad,AB Agarkar,0.01,0.55,0.16,0.42,0.31,0.74,0.62,0.05
+W Jaffer,DB Vengsarkar,V Sehwag,R Dravid,KS More,DN Sardesai,S Venkataraghavan,C Sharma,KD Ghavri,PP Ojha,AB Agarkar,0.03,0.26,0.19,0.52,0.76,0.43,0.17,0.08
+Yashpal Sharma,M Vijay,SMH Kirmani,S Abid Ali,VVS Laxman,GR Viswanath,C Sharma,NS Yadav,EAS Prasanna,DR Doshi,SLV Raju,0.8,0.56,0.64,0.48,0.41000000000000003,0.35000000000000003,0.16,0.96
+SMH Kirmani,G Gambhir,V Kohli,SR Tendulkar,NS Sidhu,W Jaffer,I Sharma,BKV Prasad,BS Bedi,SLV Raju,S Venkataraghavan,0.96,0.15,0.7000000000000001,0.72,0.48,0.48,0.45,0.46
+SR Tendulkar,VVS Laxman,R Dravid,SM Gavaskar,SC Ganguly,SMH Kirmani,I Sharma,PP Ojha,BS Bedi,C Sharma,S Venkataraghavan,0.73,0.41000000000000003,0.87,0.3,0.8,0.5700000000000001,0.97,0.8
+V Kohli,W Jaffer,Yashpal Sharma,SR Tendulkar,AD Gaekwad,Yuvraj Singh,S Sreesanth,R Ashwin,BKV Prasad,KD Ghavri,C Sharma,0.8200000000000001,0.01,0.56,0.46,0.9,0.38,0.84,0.8200000000000001
+DB Vengsarkar,GR Viswanath,SMH Kirmani,K Srikkanth,S Abid Ali,VVS Laxman,KD Ghavri,C Sharma,R Ashwin,EAS Prasanna,PP Ojha,0.55,0.01,0.74,0.71,0.31,0.59,0.9,0.12
+AL Wadekar,SS Das,VVS Laxman,Yuvraj Singh,M Vijay,MAK Pataudi,BKV Prasad,PP Ojha,R Ashwin,I Sharma,KD Ghavri,0.5,0.84,0.46,0.21,0.16,0.9400000000000001,0.72,0.53
+Yuvraj Singh,AD Gaekwad,MS Dhoni,NS Sidhu,DB Vengsarkar,NR Mongia,KD Ghavri,EAS Prasanna,Maninder Singh,BS Chandrasekhar,PP Ojha,0.79,0.5700000000000001,0.51,0.21,0.92,0.84,0.88,0.91
+SM Gavaskar,R Dravid,FM Engineer,KS More,GR Viswanath,S Ramesh,PP Ojha,EAS Prasanna,R Ashwin,S Sreesanth,C Sharma,0.92,0.55,0.74,0.97,0.34,0.62,0.18,0.38
+AD Gaekwad,R Dravid,GR Viswanath,Yuvraj Singh,S Ramesh,SM Gavaskar,R Ashwin,DR Doshi,BS Bedi,C Sharma,NS Yadav,0.18,0.01,0.02,0.15,0.98,0.35000000000000003,0.99,0.39
+CA Pujara,GR Viswanath,Yuvraj Singh,R Dravid,VVS Laxman,S Ramesh,KD Ghavri,S Sreesanth,Maninder Singh,R Ashwin,BKV Prasad,0.22,0.63,0.11,0.39,0.96,0.86,0.79,0.08
+S Abid Ali,NS Sidhu,M Azharuddin,W Jaffer,V Sehwag,KS More,S Venkataraghavan,EAS Prasanna,S Sreesanth,I Sharma,PP Ojha,0.52,0.4,0.15,0.81,0.9500000000000001,0.38,0.7000000000000001,0.18
+S Ramesh,SM Patil,V Sehwag,SM Gavaskar,VVS Laxman,SR Tendulkar,BS Bedi,S Sreesanth,Maninder Singh,PP Ojha,AB Agarkar,0.63,0.97,0.44,0.45,0.29,0.9400000000000001,0.88,0.65
+SV Manjrekar,M Vijay,S Ramesh,SM Patil,FM Engineer,M Amarnath,NS Yadav,DR Doshi,I Sharma,SLV Raju,S Sreesanth,0.98,0.04,0.55,0.0,0.51,0.16,0.23,0.89
+NS Sidhu,M Amarnath,SM Patil,K Srikkanth,CA Pujara,SMH Kirmani,BS Chandrasekhar,R Ashwin,NS Yadav,I Sharma,AB Agarkar,0.12,0.54,0.38,0.44,0.07,0.15,0.0,0.15
+MS Dhoni,SV Manjrekar,SS Das,Yashpal Sharma,SC Ganguly,DB Vengsarkar,S Sreesanth,Maninder Singh,AB Agarkar,R Ashwin,BS Bedi,0.14,0.51,0.06,0.84,0.34,0.64,0.33,0.37
+Yuvraj Singh,GR Viswanath,FM Engineer,SV Manjrekar,G Gambhir,W Jaffer,PP Ojha,Maninder Singh,S Sreesanth,EAS Prasanna,AB Agarkar,0.23,0.59,0.11,0.48,0.09,0.04,0.32,0.16
+KS More,DN Sardesai,VVS Laxman,M Vijay,AD Gaekwad,V Sehwag,BS Bedi,SLV Raju,Maninder Singh,PP Ojha,AB Agarkar,0.3,0.66,0.47000000000000003,0.7000000000000001,0.7000000000000001,0.84,0.35000000000000003,0.23
+Yashpal Sharma,R Dravid,M Amarnath,M Azharuddin,V Sehwag,SC Ganguly,BS Bedi,I Sharma,KD Ghavri,S Sreesanth,EAS Prasanna,0.45,0.08,0.6,0.45,0.24,0.31,0.9500000000000001,0.91
+SS Das,M Azharuddin,SMH Kirmani,DB Vengsarkar,G Gambhir,R Dravid,NS Yadav,R Ashwin,DR Doshi,SLV Raju,S Venkataraghavan,0.16,0.25,0.75,0.38,0.8,0.36,0.77,0.5
+SS Das,DN Sardesai,R Dravid,AD Gaekwad,MAK Pataudi,V Kohli,BS Bedi,I Sharma,DR Doshi,R Ashwin,NS Yadav,0.44,0.96,0.32,0.17,0.08,0.43,0.22,0.52
+ED Solkar,NR Mongia,NS Sidhu,SM Gavaskar,Yuvraj Singh,V Kohli,EAS Prasanna,NS Yadav,AB Agarkar,R Ashwin,BKV Prasad,0.21,0.64,0.13,0.81,0.8200000000000001,0.8200000000000001,0.54,0.9
+R Dravid,VVS Laxman,SV Manjrekar,M Vijay,FM Engineer,NR Mongia,Maninder Singh,C Sharma,BS Bedi,AB Agarkar,BS Chandrasekhar,0.75,0.73,0.58,0.25,0.73,0.07,0.54,0.4
+FM Engineer,V Sehwag,CA Pujara,M Azharuddin,SMH Kirmani,VVS Laxman,C Sharma,R Ashwin,BS Bedi,EAS Prasanna,DR Doshi,0.23,0.59,0.43,0.6,0.24,0.9400000000000001,0.3,0.03
+SC Ganguly,FM Engineer,W Jaffer,M Azharuddin,SR Tendulkar,MAK Pataudi,AB Agarkar,I Sharma,BS Bedi,DR Doshi,S Sreesanth,0.27,0.2,0.66,0.66,0.49,0.1,0.16,0.71
+GR Viswanath,NS Sidhu,S Ramesh,SM Patil,M Amarnath,G Gambhir,EAS Prasanna,I Sharma,S Venkataraghavan,Maninder Singh,BS Chandrasekhar,0.0,0.71,0.99,0.87,0.35000000000000003,0.27,0.8,0.28
+V Kohli,ED Solkar,MAK Pataudi,SR Tendulkar,K Srikkanth,KS More,KD Ghavri,DR Doshi,C Sharma,BKV Prasad,I Sharma,0.89,0.14,0.9400000000000001,0.81,0.55,0.66,0.96,0.76
+SS Das,CPS Chauhan,MAK Pataudi,ED Solkar,M Amarnath,S Abid Ali,PP Ojha,I Sharma,AB Agarkar,S Sreesanth,SLV Raju,0.6,0.54,0.4,0.35000000000000003,0.96,0.29,0.14,0.48
+FM Engineer,Yuvraj Singh,VVS Laxman,W Jaffer,CA Pujara,AL Wadekar,SLV Raju,PP Ojha,KD Ghavri,BKV Prasad,S Sreesanth,0.6,0.84,0.76,0.04,0.3,0.17,0.53,0.05
+CPS Chauhan,SMH Kirmani,KS More,S Abid Ali,V Sehwag,G Gambhir,S Venkataraghavan,DR Doshi,BKV Prasad,SLV Raju,R Ashwin,0.73,0.32,0.67,0.81,0.51,0.31,0.64,0.09
+MAK Pataudi,S Ramesh,SC Ganguly,M Vijay,VVS Laxman,AD Gaekwad,Maninder Singh,S Sreesanth,EAS Prasanna,R Ashwin,C Sharma,0.72,0.03,0.77,0.6,0.54,0.98,0.68,0.27
+MS Dhoni,V Kohli,SM Gavaskar,AD Gaekwad,SC Ganguly,ED Solkar,AB Agarkar,BKV Prasad,S Venkataraghavan,C Sharma,S Sreesanth,0.37,0.37,0.28,0.89,0.48,0.58,0.87,0.6900000000000001
+MS Dhoni,SM Gavaskar,SS Das,FM Engineer,V Kohli,M Amarnath,DR Doshi,I Sharma,BKV Prasad,Maninder Singh,EAS Prasanna,0.44,0.7000000000000001,0.87,0.21,0.2,0.15,0.44,0.19
+Yuvraj Singh,DB Vengsarkar,Yashpal Sharma,M Azharuddin,SMH Kirmani,V Kohli,DR Doshi,NS Yadav,S Sreesanth,BKV Prasad,KD Ghavri,0.65,0.58,0.04,0.01,0.92,0.9400000000000001,0.45,0.47000000000000003
+AD Gaekwad,NS Sidhu,M Vijay,W Jaffer,SS Das,SM Gavaskar,BS Bedi,I Sharma,R Ashwin,S Venkataraghavan,Maninder Singh,0.0,0.71,0.99,0.92,0.34,0.19,0.38,0.86
+M Amarnath,SC Ganguly,CPS Chauhan,V Kohli,ED Solkar,AL Wadekar,Maninder Singh,DR Doshi,BS Bedi,KD Ghavri,BS Chandrasekhar,0.8300000000000001,0.85,0.46,0.92,0.67,0.44,0.01,0.17
+KS More,SR Tendulkar,V Kohli,M Amarnath,SMH Kirmani,MAK Pataudi,EAS Prasanna,R Ashwin,DR Doshi,BS Chandrasekhar,C Sharma,0.56,0.09,0.03,0.64,0.36,0.68,0.46,0.02
+S Abid Ali,NR Mongia,SS Das,MAK Pataudi,SMH Kirmani,AD Gaekwad,PP Ojha,SLV Raju,AB Agarkar,S Sreesanth,BKV Prasad,0.43,0.14,0.68,0.23,0.08,0.86,0.28,0.31
+M Vijay,DB Vengsarkar,AL Wadekar,NR Mongia,SV Manjrekar,CPS Chauhan,KD Ghavri,PP Ojha,S Sreesanth,C Sharma,NS Yadav,0.38,0.97,0.05,0.5700000000000001,0.17,0.6900000000000001,0.76,0.52
+MAK Pataudi,MS Dhoni,SS Das,K Srikkanth,V Sehwag,G Gambhir,BKV Prasad,PP Ojha,Maninder Singh,EAS Prasanna,BS Chandrasekhar,0.19,0.61,0.75,0.23,0.11,0.62,0.32,0.68
+Yashpal Sharma,SM Gavaskar,FM Engineer,NR Mongia,GR Viswanath,S Abid Ali,EAS Prasanna,S Venkataraghavan,DR Doshi,SLV Raju,KD Ghavri,0.38,0.48,0.34,0.02,0.78,0.45,0.48,0.67
+CPS Chauhan,AL Wadekar,DB Vengsarkar,FM Engineer,SR Tendulkar,NS Sidhu,S Venkataraghavan,C Sharma,BS Chandrasekhar,PP Ojha,BKV Prasad,0.9400000000000001,0.56,0.98,0.96,0.12,0.97,0.77,0.64
+Yashpal Sharma,W Jaffer,ED Solkar,G Gambhir,M Vijay,VVS Laxman,DR Doshi,Maninder Singh,S Venkataraghavan,AB Agarkar,C Sharma,0.02,0.6900000000000001,0.8,0.12,0.39,0.45,0.15,0.48
+KS More,NS Sidhu,AL Wadekar,ED Solkar,Yashpal Sharma,M Azharuddin,BKV Prasad,AB Agarkar,KD Ghavri,EAS Prasanna,C Sharma,0.99,0.06,0.09,0.6,0.42,0.8300000000000001,0.06,0.73
+M Azharuddin,SM Patil,MS Dhoni,V Kohli,NS Sidhu,KS More,R Ashwin,KD Ghavri,BS Bedi,DR Doshi,I Sharma,0.18,0.06,0.32,0.26,0.39,0.35000000000000003,0.66,0.93
+DB Vengsarkar,SM Gavaskar,K Srikkanth,SV Manjrekar,SM Patil,GR Viswanath,BS Bedi,C Sharma,PP Ojha,S Venkataraghavan,Maninder Singh,0.61,0.49,0.9,0.29,0.79,0.41000000000000003,0.61,0.8200000000000001
+DN Sardesai,Yashpal Sharma,CA Pujara,CPS Chauhan,S Abid Ali,SM Gavaskar,DR Doshi,R Ashwin,BS Bedi,S Venkataraghavan,EAS Prasanna,0.46,0.38,0.78,0.47000000000000003,0.03,0.42,0.89,0.34
+M Vijay,Yashpal Sharma,V Sehwag,FM Engineer,SC Ganguly,M Azharuddin,BS Bedi,C Sharma,DR Doshi,KD Ghavri,S Sreesanth,0.8200000000000001,0.06,0.49,0.73,0.75,0.52,0.7000000000000001,0.68
+SM Patil,SS Das,S Abid Ali,V Kohli,R Dravid,SV Manjrekar,C Sharma,NS Yadav,EAS Prasanna,SLV Raju,DR Doshi,0.76,0.0,0.0,0.27,0.7000000000000001,0.54,0.65,0.29
+ED Solkar,DB Vengsarkar,CPS Chauhan,G Gambhir,K Srikkanth,AD Gaekwad,BS Chandrasekhar,DR Doshi,Maninder Singh,R Ashwin,AB Agarkar,0.68,0.13,0.06,0.66,0.32,0.47000000000000003,0.86,0.97
+SV Manjrekar,V Sehwag,AL Wadekar,FM Engineer,SS Das,M Azharuddin,EAS Prasanna,NS Yadav,I Sharma,BKV Prasad,C Sharma,0.01,0.29,0.37,0.08,0.45,0.12,0.9400000000000001,0.3
+CPS Chauhan,G Gambhir,AD Gaekwad,MAK Pataudi,SV Manjrekar,Yuvraj Singh,S Sreesanth,I Sharma,AB Agarkar,SLV Raju,BS Bedi,0.24,0.9,0.96,0.13,0.9500000000000001,0.17,0.84,0.42
+MS Dhoni,AL Wadekar,G Gambhir,SM Patil,K Srikkanth,Yuvraj Singh,AB Agarkar,Maninder Singh,SLV Raju,R Ashwin,S Venkataraghavan,0.55,0.41000000000000003,0.6,0.01,0.62,0.03,0.6,0.92
+KS More,S Ramesh,K Srikkanth,V Sehwag,ED Solkar,DB Vengsarkar,NS Yadav,PP Ojha,C Sharma,SLV Raju,AB Agarkar,0.06,0.84,0.48,0.59,0.09,0.25,0.41000000000000003,0.11
+M Amarnath,VVS Laxman,ED Solkar,NS Sidhu,MS Dhoni,V Kohli,KD Ghavri,PP Ojha,BS Chandrasekhar,NS Yadav,C Sharma,0.62,0.85,0.49,0.85,0.37,0.78,0.02,0.8300000000000001
+AD Gaekwad,FM Engineer,VVS Laxman,MS Dhoni,Yashpal Sharma,CA Pujara,SLV Raju,AB Agarkar,C Sharma,S Sreesanth,BS Bedi,0.79,0.87,0.21,0.8300000000000001,0.21,0.22,0.77,0.42
+ED Solkar,AL Wadekar,R Dravid,CPS Chauhan,M Amarnath,VVS Laxman,BS Chandrasekhar,PP Ojha,BS Bedi,C Sharma,R Ashwin,0.59,0.27,0.21,0.56,0.44,0.4,0.02,0.99
+W Jaffer,DN Sardesai,NS Sidhu,S Abid Ali,KS More,SM Patil,PP Ojha,I Sharma,KD Ghavri,R Ashwin,DR Doshi,0.49,0.76,0.89,0.05,0.71,0.51,0.99,0.51
+W Jaffer,VVS Laxman,M Amarnath,SS Das,V Kohli,MS Dhoni,BS Bedi,EAS Prasanna,S Sreesanth,C Sharma,NS Yadav,0.68,0.96,0.9400000000000001,0.43,0.52,0.42,0.73,0.86
+MAK Pataudi,SM Patil,K Srikkanth,SR Tendulkar,NS Sidhu,V Kohli,C Sharma,NS Yadav,S Sreesanth,DR Doshi,R Ashwin,0.44,0.97,0.27,0.2,0.75,0.88,0.98,0.5
+NR Mongia,SMH Kirmani,V Kohli,M Vijay,CPS Chauhan,Yashpal Sharma,EAS Prasanna,SLV Raju,DR Doshi,R Ashwin,S Venkataraghavan,0.38,0.53,0.85,0.37,0.72,0.63,0.51,0.87
+SR Tendulkar,SMH Kirmani,MAK Pataudi,SC Ganguly,ED Solkar,S Ramesh,NS Yadav,Maninder Singh,I Sharma,SLV Raju,S Sreesanth,0.58,0.6,0.36,0.03,0.35000000000000003,0.2,0.5700000000000001,0.92
+GR Viswanath,SC Ganguly,CPS Chauhan,AL Wadekar,SV Manjrekar,W Jaffer,S Sreesanth,R Ashwin,DR Doshi,AB Agarkar,EAS Prasanna,0.63,0.93,0.4,0.88,0.56,0.14,0.53,0.72
+SC Ganguly,MS Dhoni,NS Sidhu,SM Patil,ED Solkar,NR Mongia,EAS Prasanna,I Sharma,S Sreesanth,R Ashwin,DR Doshi,0.66,0.76,0.26,0.26,0.52,0.21,0.6900000000000001,0.9500000000000001
+CPS Chauhan,NS Sidhu,NR Mongia,SR Tendulkar,SMH Kirmani,DN Sardesai,DR Doshi,SLV Raju,PP Ojha,C Sharma,I Sharma,0.77,0.76,0.26,0.14,0.11,0.28,0.31,0.06
+MS Dhoni,G Gambhir,VVS Laxman,V Sehwag,CPS Chauhan,SC Ganguly,S Venkataraghavan,I Sharma,R Ashwin,AB Agarkar,BKV Prasad,0.09,0.12,0.56,0.93,0.9400000000000001,0.0,0.28,0.25
+NR Mongia,AD Gaekwad,SM Patil,CPS Chauhan,SM Gavaskar,CA Pujara,BS Bedi,C Sharma,BKV Prasad,Maninder Singh,R Ashwin,0.5700000000000001,0.73,0.46,0.99,0.61,0.64,0.62,0.59
+SV Manjrekar,SM Patil,MS Dhoni,SS Das,CPS Chauhan,W Jaffer,C Sharma,BS Bedi,BKV Prasad,S Venkataraghavan,DR Doshi,0.36,0.54,0.42,0.81,0.98,0.67,0.46,0.31
+DB Vengsarkar,MS Dhoni,Yuvraj Singh,SS Das,SM Gavaskar,M Azharuddin,DR Doshi,EAS Prasanna,I Sharma,SLV Raju,BKV Prasad,0.23,0.72,0.01,0.25,0.27,0.4,0.05,0.15
+Yashpal Sharma,V Sehwag,KS More,FM Engineer,SM Patil,K Srikkanth,Maninder Singh,S Venkataraghavan,NS Yadav,SLV Raju,C Sharma,0.77,0.34,0.49,0.43,0.8300000000000001,0.53,0.07,0.9
+M Azharuddin,Yuvraj Singh,SV Manjrekar,FM Engineer,NS Sidhu,NR Mongia,R Ashwin,KD Ghavri,C Sharma,BS Bedi,DR Doshi,0.18,0.75,0.72,0.72,0.75,0.06,0.04,0.28
+M Vijay,Yuvraj Singh,SMH Kirmani,R Dravid,V Sehwag,DN Sardesai,KD Ghavri,DR Doshi,PP Ojha,S Venkataraghavan,S Sreesanth,0.61,0.01,0.46,0.2,0.77,0.59,0.92,0.34
+Yashpal Sharma,S Abid Ali,V Kohli,SS Das,M Vijay,NS Sidhu,I Sharma,BS Chandrasekhar,C Sharma,SLV Raju,DR Doshi,0.98,0.42,0.67,0.81,0.81,0.37,0.26,0.71
+S Abid Ali,S Ramesh,AD Gaekwad,NR Mongia,SC Ganguly,V Sehwag,SLV Raju,BS Bedi,S Venkataraghavan,BS Chandrasekhar,KD Ghavri,0.09,0.71,0.19,0.44,0.77,0.5700000000000001,0.03,0.38
+MS Dhoni,M Azharuddin,MAK Pataudi,SV Manjrekar,AD Gaekwad,AL Wadekar,SLV Raju,EAS Prasanna,KD Ghavri,R Ashwin,I Sharma,0.84,0.9400000000000001,0.5,0.52,0.0,0.39,0.73,0.73
+M Azharuddin,SV Manjrekar,GR Viswanath,M Amarnath,KS More,MS Dhoni,DR Doshi,PP Ojha,I Sharma,NS Yadav,S Venkataraghavan,0.11,0.61,0.5,0.17,0.47000000000000003,0.45,0.72,0.31
+K Srikkanth,S Ramesh,AL Wadekar,SV Manjrekar,M Vijay,SR Tendulkar,NS Yadav,I Sharma,Maninder Singh,S Sreesanth,EAS Prasanna,0.05,0.5,0.28,0.89,0.26,0.87,0.52,0.75
+G Gambhir,DN Sardesai,K Srikkanth,V Sehwag,AL Wadekar,Yuvraj Singh,AB Agarkar,BKV Prasad,BS Bedi,NS Yadav,R Ashwin,0.22,0.42,0.13,0.36,0.52,0.26,0.42,0.42
+SMH Kirmani,G Gambhir,V Kohli,AL Wadekar,Yashpal Sharma,SM Patil,BS Chandrasekhar,S Venkataraghavan,BS Bedi,PP Ojha,SLV Raju,0.01,0.77,0.18,0.49,0.6900000000000001,0.27,0.92,0.07
+GR Viswanath,SS Das,CA Pujara,FM Engineer,DN Sardesai,MS Dhoni,KD Ghavri,S Venkataraghavan,Maninder Singh,BS Bedi,DR Doshi,0.84,0.46,0.48,0.9400000000000001,0.04,0.51,0.2,0.9500000000000001
+SR Tendulkar,G Gambhir,S Abid Ali,ED Solkar,M Azharuddin,AD Gaekwad,DR Doshi,C Sharma,S Venkataraghavan,R Ashwin,BS Chandrasekhar,0.12,0.15,0.19,0.05,0.39,0.24,0.24,0.09
+SM Patil,G Gambhir,NS Sidhu,ED Solkar,NR Mongia,CPS Chauhan,BS Bedi,S Sreesanth,KD Ghavri,DR Doshi,Maninder Singh,0.0,0.78,0.22,0.46,0.15,0.23,0.43,0.87
+DN Sardesai,AL Wadekar,DB Vengsarkar,AD Gaekwad,CPS Chauhan,FM Engineer,SLV Raju,AB Agarkar,PP Ojha,BS Chandrasekhar,C Sharma,0.38,0.32,0.74,0.72,0.06,0.86,0.93,0.73
+SR Tendulkar,Yuvraj Singh,AL Wadekar,R Dravid,MAK Pataudi,DN Sardesai,SLV Raju,DR Doshi,KD Ghavri,AB Agarkar,Maninder Singh,0.33,0.44,0.27,0.6900000000000001,0.7000000000000001,0.62,0.17,0.38
+NS Sidhu,Yuvraj Singh,S Ramesh,FM Engineer,MAK Pataudi,AD Gaekwad,S Venkataraghavan,NS Yadav,EAS Prasanna,Maninder Singh,I Sharma,0.2,0.66,0.75,0.17,0.28,0.67,0.6,0.35000000000000003
+SC Ganguly,DN Sardesai,GR Viswanath,M Azharuddin,V Kohli,W Jaffer,S Sreesanth,S Venkataraghavan,BKV Prasad,I Sharma,EAS Prasanna,0.09,0.61,0.7000000000000001,0.84,0.54,0.79,0.9400000000000001,0.9400000000000001
+NS Sidhu,M Azharuddin,S Abid Ali,SC Ganguly,NR Mongia,DN Sardesai,BS Chandrasekhar,PP Ojha,NS Yadav,Maninder Singh,AB Agarkar,0.78,0.9400000000000001,0.28,0.37,0.02,0.44,0.51,0.62
+AD Gaekwad,ED Solkar,CPS Chauhan,K Srikkanth,KS More,S Abid Ali,SLV Raju,S Sreesanth,AB Agarkar,NS Yadav,C Sharma,0.46,0.06,0.34,0.7000000000000001,0.64,0.13,0.64,0.79
+SV Manjrekar,CA Pujara,Yuvraj Singh,V Sehwag,AD Gaekwad,SM Patil,I Sharma,S Venkataraghavan,PP Ojha,R Ashwin,C Sharma,0.33,0.8,0.43,0.39,0.5,0.01,0.75,0.44
+R Dravid,SC Ganguly,SM Gavaskar,AD Gaekwad,NR Mongia,K Srikkanth,NS Yadav,BS Bedi,KD Ghavri,S Sreesanth,Maninder Singh,0.05,0.78,0.31,0.42,0.49,0.91,0.31,0.93
+SV Manjrekar,NR Mongia,CA Pujara,CPS Chauhan,SS Das,MAK Pataudi,KD Ghavri,SLV Raju,C Sharma,S Sreesanth,DR Doshi,0.68,0.23,0.76,0.26,0.92,0.53,0.03,0.32
+K Srikkanth,Yuvraj Singh,SMH Kirmani,NS Sidhu,S Ramesh,SV Manjrekar,BKV Prasad,BS Bedi,AB Agarkar,S Sreesanth,R Ashwin,0.62,0.42,0.03,0.17,0.46,0.96,0.65,0.62
+DN Sardesai,SMH Kirmani,DB Vengsarkar,CA Pujara,CPS Chauhan,MAK Pataudi,BKV Prasad,S Venkataraghavan,DR Doshi,I Sharma,AB Agarkar,0.25,0.4,0.45,0.7000000000000001,0.02,0.37,0.33,0.16
+CA Pujara,V Sehwag,M Vijay,SR Tendulkar,GR Viswanath,SM Patil,BKV Prasad,Maninder Singh,AB Agarkar,SLV Raju,S Venkataraghavan,0.29,0.38,0.63,0.12,0.12,0.67,0.39,0.26
+M Vijay,NR Mongia,AD Gaekwad,CPS Chauhan,SMH Kirmani,FM Engineer,S Sreesanth,DR Doshi,NS Yadav,R Ashwin,BS Bedi,0.61,0.96,0.65,0.63,0.14,0.39,0.32,0.79
+R Dravid,SMH Kirmani,CA Pujara,SV Manjrekar,S Ramesh,SS Das,S Sreesanth,C Sharma,DR Doshi,BS Chandrasekhar,I Sharma,0.61,0.22,0.39,0.41000000000000003,0.49,0.01,0.65,0.86
+SS Das,M Amarnath,Yuvraj Singh,M Vijay,CPS Chauhan,ED Solkar,S Sreesanth,PP Ojha,BS Chandrasekhar,S Venkataraghavan,Maninder Singh,0.92,0.8200000000000001,0.62,0.73,0.51,0.5,0.72,0.37
+G Gambhir,FM Engineer,W Jaffer,M Amarnath,KS More,SV Manjrekar,SLV Raju,Maninder Singh,NS Yadav,EAS Prasanna,DR Doshi,0.43,0.41000000000000003,0.98,0.17,0.55,0.0,0.08,0.92
+AL Wadekar,S Abid Ali,G Gambhir,GR Viswanath,KS More,DN Sardesai,DR Doshi,BS Chandrasekhar,S Sreesanth,SLV Raju,BKV Prasad,0.4,0.55,0.62,0.26,0.07,0.35000000000000003,0.53,0.62
+DN Sardesai,S Ramesh,AL Wadekar,V Kohli,NR Mongia,R Dravid,BKV Prasad,SLV Raju,DR Doshi,R Ashwin,S Venkataraghavan,0.41000000000000003,0.91,0.85,0.38,0.58,0.36,0.9,0.24
+Yuvraj Singh,ED Solkar,K Srikkanth,MS Dhoni,CPS Chauhan,SMH Kirmani,DR Doshi,NS Yadav,I Sharma,SLV Raju,S Venkataraghavan,0.9500000000000001,0.7000000000000001,0.56,0.01,0.0,0.56,0.89,0.9
+Yuvraj Singh,S Ramesh,FM Engineer,SR Tendulkar,S Abid Ali,DB Vengsarkar,C Sharma,SLV Raju,NS Yadav,KD Ghavri,BS Chandrasekhar,0.17,0.84,0.6,0.34,0.8300000000000001,0.24,0.8200000000000001,0.03
+S Abid Ali,SC Ganguly,DB Vengsarkar,KS More,M Vijay,AL Wadekar,I Sharma,BS Bedi,S Venkataraghavan,DR Doshi,EAS Prasanna,0.8300000000000001,0.52,0.43,0.08,0.76,0.72,0.73,0.25
+Yashpal Sharma,SM Patil,M Amarnath,DN Sardesai,SR Tendulkar,W Jaffer,R Ashwin,BS Bedi,BS Chandrasekhar,SLV Raju,AB Agarkar,0.34,0.8300000000000001,0.52,0.92,0.65,0.75,0.67,0.37
+ED Solkar,SV Manjrekar,CA Pujara,SMH Kirmani,FM Engineer,G Gambhir,R Ashwin,NS Yadav,S Venkataraghavan,SLV Raju,DR Doshi,0.0,0.06,0.58,0.89,0.51,0.26,0.9,0.75
+G Gambhir,SM Patil,Yashpal Sharma,VVS Laxman,R Dravid,AL Wadekar,AB Agarkar,NS Yadav,R Ashwin,BKV Prasad,DR Doshi,0.74,0.97,0.45,0.53,0.9,0.9400000000000001,0.42,0.27
+M Vijay,S Ramesh,CA Pujara,Yashpal Sharma,NR Mongia,KS More,BS Chandrasekhar,BKV Prasad,R Ashwin,Maninder Singh,DR Doshi,0.2,0.49,0.86,0.6,0.88,0.62,0.07,0.28
+G Gambhir,M Vijay,M Amarnath,SM Gavaskar,K Srikkanth,Yashpal Sharma,BKV Prasad,AB Agarkar,EAS Prasanna,S Sreesanth,KD Ghavri,0.52,0.74,0.25,0.27,0.2,0.24,0.41000000000000003,0.96
+SM Patil,V Kohli,M Amarnath,S Abid Ali,VVS Laxman,NR Mongia,BS Bedi,DR Doshi,R Ashwin,SLV Raju,KD Ghavri,0.2,0.6,0.7000000000000001,0.55,0.02,0.21,0.72,0.41000000000000003
+ED Solkar,K Srikkanth,AD Gaekwad,Yashpal Sharma,VVS Laxman,NR Mongia,NS Yadav,I Sharma,S Venkataraghavan,DR Doshi,SLV Raju,0.87,0.48,0.36,0.22,0.16,0.49,0.88,0.17
+NS Sidhu,CA Pujara,FM Engineer,MS Dhoni,AD Gaekwad,S Abid Ali,SLV Raju,NS Yadav,AB Agarkar,PP Ojha,BKV Prasad,0.93,0.84,0.49,0.68,0.5700000000000001,0.89,0.85,0.66
+SMH Kirmani,SS Das,DN Sardesai,S Ramesh,MAK Pataudi,MS Dhoni,PP Ojha,BKV Prasad,EAS Prasanna,BS Bedi,BS Chandrasekhar,0.54,0.36,0.9500000000000001,0.15,0.98,0.22,0.81,0.5700000000000001
+M Azharuddin,GR Viswanath,M Vijay,MAK Pataudi,CPS Chauhan,Yuvraj Singh,BS Chandrasekhar,C Sharma,EAS Prasanna,S Venkataraghavan,AB Agarkar,0.59,0.97,0.61,0.13,0.63,0.88,0.15,0.8300000000000001
+AD Gaekwad,SR Tendulkar,SS Das,AL Wadekar,NR Mongia,V Sehwag,SLV Raju,R Ashwin,S Sreesanth,AB Agarkar,KD Ghavri,0.75,0.0,0.32,0.27,0.81,0.97,0.84,0.62
+S Ramesh,M Vijay,K Srikkanth,GR Viswanath,SR Tendulkar,W Jaffer,PP Ojha,BS Chandrasekhar,NS Yadav,BS Bedi,I Sharma,0.93,0.84,0.1,0.39,0.86,0.3,0.6,0.9
+CPS Chauhan,R Dravid,FM Engineer,SR Tendulkar,SM Gavaskar,SC Ganguly,Maninder Singh,BS Chandrasekhar,SLV Raju,EAS Prasanna,R Ashwin,0.02,0.85,0.26,0.02,0.96,0.38,0.59,0.92
+FM Engineer,MS Dhoni,SM Gavaskar,Yuvraj Singh,GR Viswanath,NS Sidhu,PP Ojha,BS Chandrasekhar,KD Ghavri,C Sharma,I Sharma,0.18,0.97,0.87,0.79,0.37,0.34,0.73,0.22
+M Amarnath,KS More,Yuvraj Singh,SMH Kirmani,NS Sidhu,R Dravid,S Sreesanth,AB Agarkar,C Sharma,R Ashwin,I Sharma,0.58,0.13,0.42,0.48,0.58,0.09,0.63,0.31
+SM Gavaskar,VVS Laxman,SR Tendulkar,W Jaffer,S Abid Ali,MAK Pataudi,BS Chandrasekhar,SLV Raju,BS Bedi,NS Yadav,KD Ghavri,0.88,0.4,0.11,0.34,0.97,0.53,0.38,0.55
+K Srikkanth,MAK Pataudi,DN Sardesai,SM Gavaskar,Yuvraj Singh,NR Mongia,Maninder Singh,KD Ghavri,S Sreesanth,BS Bedi,SLV Raju,0.89,0.41000000000000003,0.73,0.0,0.56,0.78,0.11,0.13
+MS Dhoni,GR Viswanath,MAK Pataudi,DN Sardesai,CPS Chauhan,NS Sidhu,I Sharma,KD Ghavri,BKV Prasad,R Ashwin,NS Yadav,0.74,0.32,0.49,0.03,0.33,0.29,0.52,0.27
+MAK Pataudi,K Srikkanth,SS Das,KS More,SM Patil,DN Sardesai,AB Agarkar,S Sreesanth,EAS Prasanna,SLV Raju,BS Chandrasekhar,0.46,0.96,0.13,0.0,0.14,0.86,0.55,0.74
+AD Gaekwad,W Jaffer,CPS Chauhan,K Srikkanth,SR Tendulkar,KS More,AB Agarkar,BS Bedi,BKV Prasad,NS Yadav,KD Ghavri,0.18,0.98,0.9400000000000001,0.06,0.16,0.04,0.36,0.59
+K Srikkanth,S Abid Ali,NS Sidhu,M Vijay,DB Vengsarkar,FM Engineer,NS Yadav,KD Ghavri,BS Bedi,SLV Raju,R Ashwin,0.7000000000000001,0.88,0.25,0.48,0.84,0.81,0.33,0.37
+ED Solkar,K Srikkanth,SS Das,DB Vengsarkar,SC Ganguly,CA Pujara,DR Doshi,R Ashwin,C Sharma,EAS Prasanna,S Venkataraghavan,0.6900000000000001,0.55,0.74,0.32,0.49,0.37,0.8300000000000001,0.04
+CA Pujara,G Gambhir,NS Sidhu,FM Engineer,GR Viswanath,DB Vengsarkar,S Sreesanth,C Sharma,EAS Prasanna,S Venkataraghavan,KD Ghavri,0.8200000000000001,0.58,0.9400000000000001,0.13,0.48,0.2,0.44,0.7000000000000001
+AL Wadekar,M Amarnath,DN Sardesai,G Gambhir,S Abid Ali,CPS Chauhan,KD Ghavri,BS Chandrasekhar,PP Ojha,NS Yadav,I Sharma,0.15,0.09,0.65,0.53,0.3,0.77,0.74,0.98
+Yuvraj Singh,SMH Kirmani,SR Tendulkar,W Jaffer,S Abid Ali,CA Pujara,I Sharma,EAS Prasanna,Maninder Singh,BKV Prasad,BS Chandrasekhar,0.55,0.59,0.5,0.3,0.42,0.86,0.73,0.84
+FM Engineer,M Azharuddin,M Vijay,Yashpal Sharma,M Amarnath,AD Gaekwad,S Venkataraghavan,S Sreesanth,BKV Prasad,DR Doshi,KD Ghavri,0.63,0.9,0.81,0.37,0.2,0.45,0.63,0.09
+KS More,NS Sidhu,SR Tendulkar,K Srikkanth,M Vijay,VVS Laxman,DR Doshi,SLV Raju,Maninder Singh,BS Bedi,KD Ghavri,0.59,0.27,0.52,0.01,0.51,0.27,0.01,0.1
+SS Das,MS Dhoni,SC Ganguly,SM Gavaskar,CPS Chauhan,Yuvraj Singh,S Venkataraghavan,KD Ghavri,SLV Raju,BS Chandrasekhar,EAS Prasanna,0.61,0.75,0.88,0.12,0.24,0.8,0.44,0.36
+M Vijay,SR Tendulkar,SC Ganguly,MS Dhoni,AD Gaekwad,SM Gavaskar,EAS Prasanna,KD Ghavri,NS Yadav,I Sharma,S Sreesanth,0.18,0.42,0.41000000000000003,0.11,0.22,0.6,0.96,0.67
+S Ramesh,ED Solkar,SV Manjrekar,SR Tendulkar,GR Viswanath,KS More,EAS Prasanna,AB Agarkar,S Sreesanth,BS Chandrasekhar,KD Ghavri,0.19,0.58,0.92,0.46,0.13,0.7000000000000001,0.44,0.76
+W Jaffer,M Azharuddin,SS Das,SR Tendulkar,SM Patil,SM Gavaskar,KD Ghavri,EAS Prasanna,S Sreesanth,BKV Prasad,AB Agarkar,0.36,0.55,0.65,0.31,0.93,0.66,0.18,0.47000000000000003
+SR Tendulkar,ED Solkar,W Jaffer,GR Viswanath,SV Manjrekar,S Ramesh,BS Chandrasekhar,DR Doshi,BKV Prasad,Maninder Singh,C Sharma,0.73,0.89,0.7000000000000001,0.71,0.5,0.16,0.41000000000000003,0.41000000000000003
+DB Vengsarkar,CPS Chauhan,MS Dhoni,M Azharuddin,K Srikkanth,AL Wadekar,C Sharma,BS Bedi,Maninder Singh,AB Agarkar,I Sharma,0.07,0.44,0.79,0.3,0.81,0.75,0.05,0.77
+CPS Chauhan,Yashpal Sharma,SR Tendulkar,DN Sardesai,MAK Pataudi,SMH Kirmani,S Venkataraghavan,C Sharma,BS Chandrasekhar,DR Doshi,EAS Prasanna,0.19,0.17,0.32,0.79,0.86,0.38,0.6,0.92
+S Ramesh,NR Mongia,SV Manjrekar,W Jaffer,VVS Laxman,NS Sidhu,DR Doshi,AB Agarkar,C Sharma,BKV Prasad,S Sreesanth,0.31,0.17,0.14,0.89,0.52,0.6,0.03,0.48
+VVS Laxman,Yuvraj Singh,SS Das,AD Gaekwad,FM Engineer,V Sehwag,S Venkataraghavan,BS Chandrasekhar,EAS Prasanna,DR Doshi,I Sharma,0.08,0.15,0.23,0.03,0.39,0.6900000000000001,0.26,0.18
+K Srikkanth,MAK Pataudi,AD Gaekwad,SV Manjrekar,MS Dhoni,VVS Laxman,BS Chandrasekhar,R Ashwin,NS Yadav,Maninder Singh,C Sharma,0.19,0.76,0.28,0.5,0.08,0.01,0.75,0.31
+NR Mongia,MAK Pataudi,SS Das,VVS Laxman,CPS Chauhan,CA Pujara,C Sharma,Maninder Singh,BS Chandrasekhar,AB Agarkar,NS Yadav,0.91,0.25,0.22,0.22,0.09,0.26,0.67,0.39
+DN Sardesai,K Srikkanth,AL Wadekar,CA Pujara,V Sehwag,KS More,EAS Prasanna,KD Ghavri,DR Doshi,S Sreesanth,I Sharma,0.35000000000000003,0.85,0.97,0.27,0.3,0.66,0.32,0.54
+AD Gaekwad,V Kohli,Yashpal Sharma,SR Tendulkar,SMH Kirmani,SV Manjrekar,BS Bedi,I Sharma,EAS Prasanna,Maninder Singh,C Sharma,0.02,0.19,0.19,0.79,0.92,0.05,0.68,0.06
+VVS Laxman,W Jaffer,AL Wadekar,Yuvraj Singh,DN Sardesai,R Dravid,AB Agarkar,DR Doshi,KD Ghavri,C Sharma,BS Chandrasekhar,0.11,0.47000000000000003,0.02,0.3,0.76,0.46,0.62,0.46
+DB Vengsarkar,V Sehwag,SM Gavaskar,CPS Chauhan,W Jaffer,AL Wadekar,DR Doshi,AB Agarkar,BS Bedi,NS Yadav,S Venkataraghavan,0.11,0.8300000000000001,0.91,0.6,0.75,0.25,0.18,0.3
+CPS Chauhan,AL Wadekar,V Kohli,FM Engineer,NS Sidhu,R Dravid,R Ashwin,Maninder Singh,BKV Prasad,NS Yadav,BS Bedi,0.59,0.67,0.87,0.54,0.03,0.38,0.12,0.75
+SS Das,V Kohli,S Abid Ali,KS More,Yashpal Sharma,DB Vengsarkar,BS Bedi,PP Ojha,BKV Prasad,BS Chandrasekhar,S Venkataraghavan,0.18,0.72,0.6,0.19,0.4,0.35000000000000003,0.9,0.19
+W Jaffer,M Azharuddin,G Gambhir,Yashpal Sharma,DB Vengsarkar,S Abid Ali,Maninder Singh,KD Ghavri,PP Ojha,NS Yadav,AB Agarkar,0.46,0.6,0.61,0.17,0.5,0.0,0.07,0.74
+KS More,VVS Laxman,MS Dhoni,SM Gavaskar,S Abid Ali,SS Das,KD Ghavri,BS Bedi,R Ashwin,DR Doshi,C Sharma,0.22,0.47000000000000003,0.51,0.6900000000000001,0.2,0.97,0.35000000000000003,0.17
+NS Sidhu,DB Vengsarkar,CA Pujara,S Ramesh,R Dravid,ED Solkar,AB Agarkar,PP Ojha,SLV Raju,C Sharma,S Sreesanth,0.53,0.23,0.48,0.1,0.84,0.07,0.88,0.2
+M Vijay,KS More,M Amarnath,S Abid Ali,ED Solkar,R Dravid,NS Yadav,R Ashwin,BS Bedi,KD Ghavri,EAS Prasanna,0.7000000000000001,0.65,0.27,0.42,0.8200000000000001,0.39,0.13,0.96
+DN Sardesai,SMH Kirmani,NR Mongia,AD Gaekwad,Yuvraj Singh,V Sehwag,EAS Prasanna,PP Ojha,I Sharma,BS Chandrasekhar,BKV Prasad,0.61,0.29,0.81,0.37,0.78,0.5700000000000001,0.07,0.29
+SC Ganguly,G Gambhir,S Ramesh,SM Gavaskar,SR Tendulkar,SV Manjrekar,AB Agarkar,BS Chandrasekhar,NS Yadav,DR Doshi,C Sharma,0.7000000000000001,0.41000000000000003,0.11,0.45,0.14,0.29,0.66,0.3
+DB Vengsarkar,MAK Pataudi,M Vijay,Yuvraj Singh,SV Manjrekar,W Jaffer,AB Agarkar,S Sreesanth,C Sharma,S Venkataraghavan,BKV Prasad,0.44,0.76,0.8200000000000001,0.32,0.51,0.03,0.74,0.58
+V Kohli,SM Gavaskar,AL Wadekar,CPS Chauhan,M Azharuddin,G Gambhir,S Sreesanth,S Venkataraghavan,Maninder Singh,DR Doshi,NS Yadav,0.89,0.4,0.76,0.28,0.96,0.21,0.81,0.06
+DN Sardesai,FM Engineer,NS Sidhu,MAK Pataudi,NR Mongia,SC Ganguly,AB Agarkar,SLV Raju,S Venkataraghavan,BS Chandrasekhar,EAS Prasanna,0.88,0.23,0.72,0.14,0.9,0.1,0.17,0.06
+SMH Kirmani,M Amarnath,Yashpal Sharma,DN Sardesai,DB Vengsarkar,G Gambhir,AB Agarkar,I Sharma,Maninder Singh,PP Ojha,DR Doshi,0.55,0.8300000000000001,0.3,0.5700000000000001,0.52,0.53,0.33,0.97
+SM Patil,SM Gavaskar,W Jaffer,DB Vengsarkar,MS Dhoni,M Azharuddin,R Ashwin,S Venkataraghavan,AB Agarkar,I Sharma,C Sharma,0.51,0.5,0.25,0.44,0.09,0.23,0.11,0.45
+NS Sidhu,SMH Kirmani,MS Dhoni,AD Gaekwad,Yashpal Sharma,W Jaffer,NS Yadav,C Sharma,S Sreesanth,BS Chandrasekhar,R Ashwin,0.5,0.37,0.58,0.17,0.74,0.64,0.47000000000000003,0.07
+M Vijay,VVS Laxman,SV Manjrekar,R Dravid,AD Gaekwad,MAK Pataudi,EAS Prasanna,C Sharma,S Sreesanth,Maninder Singh,DR Doshi,0.6,0.32,0.55,0.58,0.2,0.68,0.32,0.54
+DB Vengsarkar,KS More,CPS Chauhan,V Sehwag,ED Solkar,SMH Kirmani,R Ashwin,S Venkataraghavan,BKV Prasad,BS Bedi,BS Chandrasekhar,0.98,0.28,0.35000000000000003,0.02,0.43,0.09,0.09,0.99
+ED Solkar,GR Viswanath,SC Ganguly,MAK Pataudi,DB Vengsarkar,NS Sidhu,AB Agarkar,DR Doshi,EAS Prasanna,NS Yadav,SLV Raju,0.29,0.23,0.58,0.55,0.36,0.74,0.93,0.22
+NS Sidhu,GR Viswanath,M Azharuddin,K Srikkanth,SR Tendulkar,SC Ganguly,SLV Raju,Maninder Singh,EAS Prasanna,R Ashwin,AB Agarkar,0.91,0.28,0.26,0.11,0.55,0.64,0.85,0.93
+MS Dhoni,VVS Laxman,V Sehwag,AL Wadekar,K Srikkanth,SMH Kirmani,BS Chandrasekhar,BKV Prasad,KD Ghavri,SLV Raju,NS Yadav,0.03,0.48,0.8200000000000001,0.91,0.72,0.2,0.0,0.06
+CPS Chauhan,SM Gavaskar,NS Sidhu,SS Das,G Gambhir,ED Solkar,NS Yadav,AB Agarkar,KD Ghavri,EAS Prasanna,DR Doshi,0.6900000000000001,0.74,0.52,0.8300000000000001,0.53,0.13,0.5700000000000001,0.75
+CA Pujara,VVS Laxman,M Vijay,G Gambhir,Yashpal Sharma,V Sehwag,C Sharma,BS Chandrasekhar,DR Doshi,Maninder Singh,BS Bedi,0.59,0.63,0.45,0.36,0.62,0.7000000000000001,0.26,0.35000000000000003
+ED Solkar,CPS Chauhan,KS More,W Jaffer,SM Gavaskar,V Kohli,R Ashwin,C Sharma,KD Ghavri,BS Bedi,EAS Prasanna,0.64,0.52,0.68,0.14,0.6900000000000001,0.17,0.68,0.91
+AL Wadekar,S Ramesh,ED Solkar,SR Tendulkar,SM Patil,R Dravid,SLV Raju,S Sreesanth,BS Chandrasekhar,DR Doshi,PP Ojha,0.8300000000000001,0.66,0.51,0.42,0.52,0.18,0.44,0.02
+CPS Chauhan,S Abid Ali,M Vijay,K Srikkanth,DN Sardesai,Yuvraj Singh,DR Doshi,SLV Raju,I Sharma,KD Ghavri,S Venkataraghavan,0.2,0.56,0.29,0.88,0.39,0.68,0.37,0.03
+VVS Laxman,AD Gaekwad,KS More,V Kohli,V Sehwag,K Srikkanth,I Sharma,EAS Prasanna,NS Yadav,DR Doshi,S Venkataraghavan,0.37,0.35000000000000003,0.9500000000000001,0.86,0.31,0.88,0.22,0.54
+Yuvraj Singh,SMH Kirmani,V Kohli,ED Solkar,GR Viswanath,DB Vengsarkar,SLV Raju,NS Yadav,I Sharma,Maninder Singh,S Venkataraghavan,0.49,0.55,0.63,0.6,0.8,0.45,0.33,0.06
+SS Das,KS More,GR Viswanath,M Azharuddin,DB Vengsarkar,SM Gavaskar,SLV Raju,KD Ghavri,EAS Prasanna,I Sharma,BS Chandrasekhar,0.02,0.47000000000000003,0.36,0.92,0.14,0.9500000000000001,0.86,0.8300000000000001
+DB Vengsarkar,VVS Laxman,DN Sardesai,KS More,W Jaffer,Yashpal Sharma,BKV Prasad,PP Ojha,BS Bedi,C Sharma,DR Doshi,0.68,0.68,0.92,0.52,0.81,0.29,0.56,0.12
+Yashpal Sharma,R Dravid,FM Engineer,KS More,K Srikkanth,VVS Laxman,BS Chandrasekhar,PP Ojha,C Sharma,AB Agarkar,EAS Prasanna,0.8300000000000001,0.96,0.11,0.01,0.22,0.3,0.0,0.54
+AL Wadekar,M Azharuddin,NS Sidhu,K Srikkanth,Yuvraj Singh,V Kohli,NS Yadav,BKV Prasad,I Sharma,BS Chandrasekhar,KD Ghavri,0.14,0.41000000000000003,0.21,0.43,0.7000000000000001,0.25,0.88,0.24
+R Dravid,SV Manjrekar,SS Das,CPS Chauhan,K Srikkanth,M Amarnath,EAS Prasanna,PP Ojha,C Sharma,DR Doshi,R Ashwin,0.12,0.43,0.19,0.3,0.84,0.66,0.22,0.98
+S Ramesh,SC Ganguly,SM Patil,SV Manjrekar,DN Sardesai,SM Gavaskar,BS Bedi,SLV Raju,BS Chandrasekhar,S Sreesanth,C Sharma,0.78,0.63,0.81,0.6900000000000001,0.65,0.56,0.46,0.28
+MS Dhoni,K Srikkanth,FM Engineer,M Azharuddin,DB Vengsarkar,SR Tendulkar,PP Ojha,AB Agarkar,DR Doshi,BS Bedi,I Sharma,0.66,0.08,0.28,0.47000000000000003,0.03,0.59,0.8,0.4
+SV Manjrekar,M Azharuddin,ED Solkar,R Dravid,NS Sidhu,SMH Kirmani,SLV Raju,BKV Prasad,Maninder Singh,KD Ghavri,S Sreesanth,0.32,0.67,0.9,0.78,0.5,0.1,0.7000000000000001,0.2
+SS Das,CA Pujara,CPS Chauhan,FM Engineer,NR Mongia,MS Dhoni,KD Ghavri,EAS Prasanna,SLV Raju,I Sharma,R Ashwin,0.23,0.98,0.27,0.9,0.3,0.63,0.89,0.5
+M Vijay,FM Engineer,SMH Kirmani,R Dravid,VVS Laxman,V Kohli,I Sharma,AB Agarkar,Maninder Singh,NS Yadav,EAS Prasanna,0.75,0.0,0.98,0.27,0.2,0.17,0.48,0.86
+DN Sardesai,NR Mongia,NS Sidhu,M Azharuddin,M Vijay,S Ramesh,AB Agarkar,Maninder Singh,I Sharma,NS Yadav,BKV Prasad,0.1,0.6900000000000001,0.49,0.42,0.79,0.36,0.75,0.66
+SM Gavaskar,AL Wadekar,DB Vengsarkar,GR Viswanath,KS More,NR Mongia,C Sharma,SLV Raju,I Sharma,KD Ghavri,PP Ojha,0.38,0.16,0.09,0.14,0.9400000000000001,0.15,0.72,0.44
+Yashpal Sharma,FM Engineer,M Vijay,MAK Pataudi,SS Das,SV Manjrekar,SLV Raju,S Venkataraghavan,R Ashwin,NS Yadav,BKV Prasad,0.54,0.04,0.47000000000000003,0.71,0.1,0.04,0.28,0.6
+AL Wadekar,DB Vengsarkar,SV Manjrekar,SM Patil,S Ramesh,FM Engineer,R Ashwin,SLV Raju,Maninder Singh,BS Chandrasekhar,BKV Prasad,0.08,0.44,0.09,0.23,0.33,0.89,0.8300000000000001,0.88
+AD Gaekwad,DN Sardesai,Yuvraj Singh,SM Patil,GR Viswanath,M Vijay,R Ashwin,SLV Raju,NS Yadav,S Venkataraghavan,I Sharma,0.98,0.8300000000000001,0.12,0.7000000000000001,0.97,0.84,0.26,0.24
+SV Manjrekar,K Srikkanth,GR Viswanath,SMH Kirmani,DB Vengsarkar,FM Engineer,BS Chandrasekhar,I Sharma,NS Yadav,DR Doshi,S Venkataraghavan,0.73,0.7000000000000001,0.96,0.1,0.38,0.6,0.75,0.14
+V Sehwag,SR Tendulkar,AL Wadekar,W Jaffer,SS Das,V Kohli,DR Doshi,BS Chandrasekhar,PP Ojha,BS Bedi,S Sreesanth,0.14,0.56,0.68,0.77,0.65,0.41000000000000003,0.62,0.92
+CA Pujara,MS Dhoni,DN Sardesai,M Amarnath,S Ramesh,R Dravid,R Ashwin,NS Yadav,C Sharma,I Sharma,DR Doshi,0.73,0.58,0.01,0.58,0.92,0.58,0.54,0.5
+VVS Laxman,NS Sidhu,SM Gavaskar,GR Viswanath,NR Mongia,S Ramesh,S Sreesanth,AB Agarkar,KD Ghavri,C Sharma,BS Chandrasekhar,0.01,0.01,0.0,0.75,0.51,0.96,0.77,0.12
+AL Wadekar,M Vijay,Yuvraj Singh,SV Manjrekar,SS Das,M Amarnath,KD Ghavri,NS Yadav,BKV Prasad,DR Doshi,C Sharma,0.9,0.6,0.79,0.64,0.86,0.92,0.0,0.3
+SR Tendulkar,CPS Chauhan,V Kohli,AD Gaekwad,ED Solkar,SS Das,S Sreesanth,R Ashwin,I Sharma,AB Agarkar,BS Bedi,0.73,0.6,0.6,0.93,0.56,0.67,0.02,0.8300000000000001
+R Dravid,DN Sardesai,M Amarnath,ED Solkar,NR Mongia,AL Wadekar,EAS Prasanna,PP Ojha,NS Yadav,I Sharma,BS Chandrasekhar,0.81,0.27,0.49,0.73,0.52,0.7000000000000001,0.33,0.9
+S Ramesh,V Kohli,DN Sardesai,FM Engineer,SR Tendulkar,SC Ganguly,S Sreesanth,S Venkataraghavan,R Ashwin,I Sharma,NS Yadav,0.6,0.22,0.5700000000000001,0.85,0.35000000000000003,0.72,0.07,0.67
+DB Vengsarkar,NR Mongia,M Azharuddin,GR Viswanath,G Gambhir,V Sehwag,C Sharma,Maninder Singh,SLV Raju,NS Yadav,BS Chandrasekhar,0.9,0.52,0.58,0.6,0.63,0.2,0.42,0.96
+G Gambhir,GR Viswanath,SC Ganguly,SM Gavaskar,FM Engineer,V Sehwag,AB Agarkar,S Sreesanth,S Venkataraghavan,PP Ojha,BS Bedi,0.42,0.86,0.41000000000000003,0.17,0.01,0.41000000000000003,0.21,0.8200000000000001
+ED Solkar,SS Das,S Abid Ali,DN Sardesai,KS More,MS Dhoni,EAS Prasanna,R Ashwin,S Sreesanth,BKV Prasad,BS Chandrasekhar,0.09,0.44,0.0,0.21,0.53,0.08,0.8200000000000001,0.81
+SS Das,CA Pujara,SM Patil,SC Ganguly,S Ramesh,MS Dhoni,BKV Prasad,EAS Prasanna,BS Bedi,DR Doshi,AB Agarkar,0.77,0.01,0.65,0.46,0.67,0.86,0.88,0.64
+GR Viswanath,ED Solkar,SM Gavaskar,Yashpal Sharma,Yuvraj Singh,NS Sidhu,BKV Prasad,KD Ghavri,PP Ojha,C Sharma,SLV Raju,0.71,0.8300000000000001,0.32,0.85,0.02,0.33,0.09,0.45
+VVS Laxman,SS Das,NS Sidhu,SR Tendulkar,Yashpal Sharma,MS Dhoni,AB Agarkar,EAS Prasanna,C Sharma,S Sreesanth,BS Bedi,0.09,0.77,0.71,0.8300000000000001,0.17,0.64,0.03,0.96
+DN Sardesai,SR Tendulkar,Yuvraj Singh,VVS Laxman,NR Mongia,G Gambhir,S Sreesanth,PP Ojha,Maninder Singh,I Sharma,NS Yadav,0.75,0.46,0.53,0.52,0.65,0.26,0.79,0.09
+M Vijay,CA Pujara,SM Patil,K Srikkanth,G Gambhir,VVS Laxman,DR Doshi,C Sharma,BS Bedi,EAS Prasanna,Maninder Singh,0.67,0.42,0.65,0.9,0.8300000000000001,0.11,0.33,0.76
+M Amarnath,DB Vengsarkar,MAK Pataudi,SC Ganguly,DN Sardesai,S Abid Ali,PP Ojha,I Sharma,DR Doshi,BKV Prasad,R Ashwin,0.41000000000000003,0.89,0.04,0.99,0.7000000000000001,0.64,0.8,0.99
+CA Pujara,Yashpal Sharma,K Srikkanth,R Dravid,NR Mongia,SV Manjrekar,AB Agarkar,KD Ghavri,R Ashwin,PP Ojha,EAS Prasanna,0.17,0.59,0.86,0.22,0.44,0.39,0.99,0.5
+DN Sardesai,CA Pujara,W Jaffer,KS More,CPS Chauhan,MAK Pataudi,AB Agarkar,BKV Prasad,DR Doshi,R Ashwin,KD Ghavri,0.78,0.28,0.85,0.59,0.44,0.2,0.76,0.6
+G Gambhir,SMH Kirmani,R Dravid,AD Gaekwad,NR Mongia,K Srikkanth,PP Ojha,EAS Prasanna,Maninder Singh,NS Yadav,I Sharma,0.35000000000000003,0.2,0.49,0.9500000000000001,0.63,0.77,0.1,0.5700000000000001
+SS Das,V Sehwag,SC Ganguly,M Azharuddin,SM Patil,SMH Kirmani,SLV Raju,EAS Prasanna,S Venkataraghavan,DR Doshi,Maninder Singh,0.61,0.19,0.35000000000000003,0.9400000000000001,0.9,0.32,0.56,0.65
+MAK Pataudi,SV Manjrekar,S Abid Ali,MS Dhoni,G Gambhir,DB Vengsarkar,S Venkataraghavan,BS Chandrasekhar,AB Agarkar,EAS Prasanna,BKV Prasad,0.65,0.64,0.98,0.54,0.34,0.32,0.66,0.66
+Yashpal Sharma,M Vijay,M Azharuddin,SMH Kirmani,SM Gavaskar,ED Solkar,BKV Prasad,I Sharma,AB Agarkar,EAS Prasanna,PP Ojha,0.07,0.88,0.45,0.9,0.63,0.9,0.12,0.68
+G Gambhir,MAK Pataudi,V Kohli,SM Patil,SS Das,NS Sidhu,R Ashwin,BKV Prasad,NS Yadav,BS Chandrasekhar,SLV Raju,0.02,0.9400000000000001,0.13,0.89,0.38,0.38,0.89,0.37
+MAK Pataudi,KS More,SR Tendulkar,NR Mongia,CPS Chauhan,M Vijay,S Venkataraghavan,EAS Prasanna,C Sharma,PP Ojha,BS Chandrasekhar,0.04,0.27,0.44,0.6900000000000001,0.52,0.34,0.63,0.81
+SR Tendulkar,SC Ganguly,S Ramesh,GR Viswanath,NS Sidhu,R Dravid,BS Chandrasekhar,DR Doshi,SLV Raju,BKV Prasad,NS Yadav,0.54,0.07,0.0,0.25,0.07,0.23,0.37,0.99
+SM Gavaskar,M Amarnath,R Dravid,SV Manjrekar,AL Wadekar,MS Dhoni,SLV Raju,BS Bedi,Maninder Singh,R Ashwin,BS Chandrasekhar,0.53,0.02,0.46,0.78,0.53,0.67,0.58,0.32
+SR Tendulkar,AL Wadekar,SV Manjrekar,V Kohli,CA Pujara,MAK Pataudi,R Ashwin,PP Ojha,I Sharma,S Venkataraghavan,KD Ghavri,0.81,0.24,0.6900000000000001,0.21,0.98,0.63,0.53,0.13
+CPS Chauhan,M Amarnath,FM Engineer,SR Tendulkar,MAK Pataudi,GR Viswanath,Maninder Singh,R Ashwin,SLV Raju,C Sharma,KD Ghavri,0.9,0.81,0.19,0.59,0.23,0.62,0.64,0.08
+W Jaffer,FM Engineer,S Abid Ali,KS More,NR Mongia,DN Sardesai,I Sharma,R Ashwin,BS Chandrasekhar,EAS Prasanna,SLV Raju,0.02,0.01,0.52,0.0,0.23,0.27,0.33,0.81
+SS Das,NR Mongia,KS More,NS Sidhu,SMH Kirmani,M Azharuddin,DR Doshi,S Sreesanth,PP Ojha,SLV Raju,EAS Prasanna,0.36,0.39,0.03,0.88,0.46,0.1,0.35000000000000003,0.63
+Yuvraj Singh,FM Engineer,SS Das,GR Viswanath,MS Dhoni,MAK Pataudi,BS Bedi,EAS Prasanna,SLV Raju,AB Agarkar,S Venkataraghavan,0.48,0.22,0.7000000000000001,0.1,0.22,0.5700000000000001,0.36,0.87
+DN Sardesai,CPS Chauhan,NS Sidhu,S Abid Ali,M Amarnath,SMH Kirmani,C Sharma,EAS Prasanna,S Venkataraghavan,Maninder Singh,PP Ojha,0.01,0.41000000000000003,0.34,0.18,0.14,0.71,0.04,0.96
+GR Viswanath,FM Engineer,KS More,V Sehwag,V Kohli,R Dravid,BKV Prasad,EAS Prasanna,KD Ghavri,DR Doshi,BS Bedi,0.93,0.19,0.04,0.51,0.73,0.67,0.8200000000000001,0.39
+M Amarnath,Yashpal Sharma,SV Manjrekar,CA Pujara,V Kohli,CPS Chauhan,KD Ghavri,PP Ojha,R Ashwin,NS Yadav,I Sharma,0.09,0.05,0.44,0.8300000000000001,0.65,0.99,0.78,0.18
+M Azharuddin,V Kohli,NS Sidhu,GR Viswanath,SMH Kirmani,MS Dhoni,AB Agarkar,BS Bedi,S Sreesanth,EAS Prasanna,S Venkataraghavan,0.65,0.62,0.77,0.17,0.74,0.53,0.65,0.02
+V Sehwag,M Vijay,NS Sidhu,MS Dhoni,SV Manjrekar,SMH Kirmani,SLV Raju,S Sreesanth,BS Chandrasekhar,C Sharma,NS Yadav,0.59,0.74,0.24,0.72,0.6,0.66,0.33,0.73
+SM Patil,GR Viswanath,AD Gaekwad,SC Ganguly,MAK Pataudi,CA Pujara,R Ashwin,NS Yadav,PP Ojha,BS Bedi,SLV Raju,0.22,0.76,0.37,0.84,0.66,0.68,0.56,0.58
+NS Sidhu,M Amarnath,GR Viswanath,MAK Pataudi,K Srikkanth,Yuvraj Singh,BS Bedi,DR Doshi,PP Ojha,BKV Prasad,S Sreesanth,0.02,0.64,0.47000000000000003,0.89,0.9,0.1,0.85,0.5
+S Ramesh,CA Pujara,Yuvraj Singh,AD Gaekwad,SMH Kirmani,SC Ganguly,S Sreesanth,BS Chandrasekhar,PP Ojha,DR Doshi,AB Agarkar,0.53,0.9,0.74,0.77,0.16,0.66,0.62,0.12
+Yashpal Sharma,S Ramesh,MAK Pataudi,R Dravid,FM Engineer,M Vijay,C Sharma,PP Ojha,DR Doshi,NS Yadav,EAS Prasanna,0.65,0.04,0.18,0.9400000000000001,0.38,0.5,0.45,0.76
+SMH Kirmani,V Kohli,AL Wadekar,SS Das,VVS Laxman,NS Sidhu,NS Yadav,I Sharma,BS Chandrasekhar,PP Ojha,S Venkataraghavan,0.12,0.92,0.77,0.05,0.6900000000000001,0.27,0.86,0.71
+GR Viswanath,M Vijay,CA Pujara,S Abid Ali,Yuvraj Singh,R Dravid,AB Agarkar,BS Chandrasekhar,Maninder Singh,BS Bedi,I Sharma,0.62,0.3,0.88,0.67,0.59,0.08,0.26,0.93
+V Sehwag,MAK Pataudi,Yashpal Sharma,K Srikkanth,VVS Laxman,R Dravid,AB Agarkar,S Sreesanth,R Ashwin,C Sharma,S Venkataraghavan,0.97,0.91,0.42,0.89,0.93,0.85,0.27,0.55
+SM Patil,ED Solkar,NR Mongia,MS Dhoni,S Abid Ali,S Ramesh,C Sharma,I Sharma,DR Doshi,R Ashwin,AB Agarkar,0.91,0.43,0.43,0.01,0.27,0.07,0.78,0.01
+MAK Pataudi,DB Vengsarkar,SR Tendulkar,W Jaffer,Yuvraj Singh,G Gambhir,S Sreesanth,BKV Prasad,AB Agarkar,BS Bedi,BS Chandrasekhar,0.59,0.02,0.17,0.12,0.81,0.51,0.35000000000000003,0.8
+SR Tendulkar,M Amarnath,NS Sidhu,M Azharuddin,AL Wadekar,SM Gavaskar,PP Ojha,S Sreesanth,KD Ghavri,R Ashwin,C Sharma,0.56,0.65,0.37,0.84,0.08,0.02,0.25,0.27
+M Vijay,MS Dhoni,SV Manjrekar,SMH Kirmani,NS Sidhu,GR Viswanath,BS Chandrasekhar,KD Ghavri,EAS Prasanna,R Ashwin,AB Agarkar,0.8,0.15,0.25,0.96,0.9400000000000001,0.38,0.48,0.06
+Yuvraj Singh,AD Gaekwad,ED Solkar,MS Dhoni,CA Pujara,K Srikkanth,EAS Prasanna,Maninder Singh,S Sreesanth,R Ashwin,NS Yadav,0.23,0.89,0.68,0.76,0.32,0.71,0.49,0.34
+SV Manjrekar,Yashpal Sharma,KS More,MAK Pataudi,SS Das,S Ramesh,R Ashwin,PP Ojha,EAS Prasanna,NS Yadav,BS Chandrasekhar,0.34,0.71,0.0,0.06,0.76,0.68,0.11,0.11
+SMH Kirmani,M Azharuddin,SR Tendulkar,Yashpal Sharma,DN Sardesai,K Srikkanth,DR Doshi,KD Ghavri,R Ashwin,S Sreesanth,EAS Prasanna,0.11,0.17,0.71,0.71,0.66,0.73,0.6900000000000001,0.9500000000000001
+SM Gavaskar,Yuvraj Singh,SV Manjrekar,NS Sidhu,R Dravid,DB Vengsarkar,BS Chandrasekhar,S Venkataraghavan,C Sharma,I Sharma,DR Doshi,0.09,0.71,0.42,0.56,0.8200000000000001,0.55,0.16,0.51
+DN Sardesai,MAK Pataudi,Yashpal Sharma,ED Solkar,KS More,NR Mongia,BKV Prasad,S Venkataraghavan,I Sharma,KD Ghavri,S Sreesanth,0.5,0.46,0.19,0.75,0.23,0.89,0.4,0.81
+V Kohli,DN Sardesai,NS Sidhu,SM Patil,MS Dhoni,K Srikkanth,BKV Prasad,S Venkataraghavan,NS Yadav,C Sharma,S Sreesanth,0.47000000000000003,0.04,0.54,0.11,0.43,0.04,0.9,0.44
+W Jaffer,VVS Laxman,GR Viswanath,G Gambhir,MS Dhoni,NS Sidhu,BKV Prasad,PP Ojha,I Sharma,C Sharma,DR Doshi,0.53,0.09,0.52,0.24,0.76,0.72,0.87,0.48
+M Azharuddin,SV Manjrekar,MAK Pataudi,K Srikkanth,V Kohli,R Dravid,EAS Prasanna,AB Agarkar,PP Ojha,S Sreesanth,DR Doshi,0.5700000000000001,0.88,0.09,0.23,0.16,0.32,0.24,0.08
+NS Sidhu,SMH Kirmani,SC Ganguly,AD Gaekwad,G Gambhir,SM Gavaskar,DR Doshi,Maninder Singh,NS Yadav,BS Bedi,I Sharma,0.49,0.73,0.19,0.17,0.03,0.05,0.4,0.21
+CPS Chauhan,SM Gavaskar,MAK Pataudi,SR Tendulkar,AL Wadekar,R Dravid,SLV Raju,C Sharma,EAS Prasanna,Maninder Singh,BKV Prasad,0.64,0.37,0.71,0.91,0.3,0.37,0.32,0.7000000000000001
+Yashpal Sharma,VVS Laxman,M Amarnath,FM Engineer,KS More,SC Ganguly,Maninder Singh,NS Yadav,AB Agarkar,C Sharma,S Sreesanth,0.96,0.02,0.99,0.11,0.25,0.81,0.72,0.93
+K Srikkanth,V Kohli,V Sehwag,AL Wadekar,SMH Kirmani,S Ramesh,R Ashwin,KD Ghavri,SLV Raju,S Sreesanth,S Venkataraghavan,0.29,0.3,0.66,0.17,0.2,0.61,0.43,0.32
+M Azharuddin,K Srikkanth,R Dravid,M Amarnath,MAK Pataudi,VVS Laxman,C Sharma,BKV Prasad,S Sreesanth,EAS Prasanna,NS Yadav,0.39,0.61,0.43,0.0,0.66,0.59,0.45,0.42
+VVS Laxman,MS Dhoni,SM Gavaskar,Yashpal Sharma,SM Patil,M Vijay,DR Doshi,R Ashwin,BKV Prasad,I Sharma,EAS Prasanna,0.14,0.53,0.74,0.26,0.46,0.31,0.53,0.34
+R Dravid,K Srikkanth,S Abid Ali,DB Vengsarkar,MAK Pataudi,DN Sardesai,BS Bedi,BKV Prasad,SLV Raju,KD Ghavri,EAS Prasanna,0.34,0.45,0.37,0.51,0.27,0.91,0.58,0.31
+V Sehwag,Yashpal Sharma,W Jaffer,R Dravid,AD Gaekwad,AL Wadekar,C Sharma,I Sharma,EAS Prasanna,BS Chandrasekhar,S Venkataraghavan,0.19,0.85,0.79,0.46,0.8,0.99,0.03,0.81
+DB Vengsarkar,AD Gaekwad,SC Ganguly,W Jaffer,K Srikkanth,R Dravid,C Sharma,I Sharma,S Sreesanth,EAS Prasanna,Maninder Singh,0.36,0.47000000000000003,0.8200000000000001,0.46,0.25,0.9,0.33,0.96
+M Vijay,SV Manjrekar,AL Wadekar,NS Sidhu,Yashpal Sharma,CPS Chauhan,BKV Prasad,Maninder Singh,KD Ghavri,C Sharma,BS Chandrasekhar,0.77,0.77,0.29,0.46,0.4,0.47000000000000003,0.5,0.2
+W Jaffer,SC Ganguly,AL Wadekar,NS Sidhu,GR Viswanath,KS More,BS Chandrasekhar,NS Yadav,R Ashwin,Maninder Singh,SLV Raju,0.49,0.13,0.86,0.6900000000000001,0.8,0.73,0.72,0.61
+W Jaffer,CA Pujara,VVS Laxman,SMH Kirmani,K Srikkanth,DB Vengsarkar,PP Ojha,AB Agarkar,C Sharma,S Sreesanth,NS Yadav,0.15,0.93,0.97,0.64,0.73,0.76,0.24,0.1
+R Dravid,M Amarnath,SR Tendulkar,K Srikkanth,SC Ganguly,Yashpal Sharma,S Sreesanth,Maninder Singh,BS Bedi,R Ashwin,SLV Raju,0.59,0.31,0.85,0.45,0.48,0.5,0.6,0.99
+M Amarnath,M Vijay,SR Tendulkar,FM Engineer,SS Das,GR Viswanath,R Ashwin,S Sreesanth,BKV Prasad,AB Agarkar,NS Yadav,0.66,0.61,0.5700000000000001,0.73,0.6,0.7000000000000001,0.16,0.29
+W Jaffer,SM Patil,AL Wadekar,S Abid Ali,GR Viswanath,CA Pujara,EAS Prasanna,S Sreesanth,AB Agarkar,Maninder Singh,DR Doshi,0.0,0.89,0.66,0.07,0.53,0.81,0.8,0.85
+MS Dhoni,AD Gaekwad,R Dravid,Yuvraj Singh,SC Ganguly,SR Tendulkar,KD Ghavri,PP Ojha,BS Bedi,S Sreesanth,R Ashwin,0.14,0.62,0.45,0.61,0.42,0.37,0.6,0.2
+S Ramesh,SR Tendulkar,Yashpal Sharma,SM Patil,V Kohli,FM Engineer,R Ashwin,C Sharma,I Sharma,DR Doshi,S Venkataraghavan,0.04,0.08,0.39,0.89,0.11,0.6,0.8200000000000001,0.65
+V Kohli,SR Tendulkar,K Srikkanth,SM Gavaskar,AL Wadekar,SC Ganguly,SLV Raju,NS Yadav,S Venkataraghavan,DR Doshi,KD Ghavri,0.79,0.91,0.17,0.04,0.61,0.41000000000000003,0.5,0.97
+SS Das,CPS Chauhan,NR Mongia,SC Ganguly,V Kohli,SMH Kirmani,KD Ghavri,DR Doshi,NS Yadav,S Sreesanth,R Ashwin,0.32,0.42,0.51,0.37,0.1,0.5700000000000001,0.5700000000000001,0.71
+AD Gaekwad,AL Wadekar,NS Sidhu,CPS Chauhan,M Amarnath,V Sehwag,BS Chandrasekhar,NS Yadav,C Sharma,PP Ojha,DR Doshi,0.23,0.2,0.25,0.74,0.09,0.38,0.28,0.07
+S Abid Ali,SS Das,SR Tendulkar,S Ramesh,SV Manjrekar,SM Patil,S Venkataraghavan,C Sharma,SLV Raju,R Ashwin,NS Yadav,0.2,0.09,0.49,0.98,0.18,0.08,0.11,0.92
+M Amarnath,MAK Pataudi,CA Pujara,V Sehwag,SV Manjrekar,KS More,DR Doshi,S Sreesanth,SLV Raju,BKV Prasad,EAS Prasanna,0.36,0.27,0.09,0.1,0.23,0.72,0.32,0.53
+KS More,Yuvraj Singh,W Jaffer,MAK Pataudi,ED Solkar,SC Ganguly,S Sreesanth,KD Ghavri,I Sharma,BS Chandrasekhar,DR Doshi,0.52,0.43,0.07,0.04,0.21,0.6900000000000001,0.45,0.81
+SS Das,M Amarnath,DB Vengsarkar,NR Mongia,AL Wadekar,Yashpal Sharma,BKV Prasad,DR Doshi,I Sharma,KD Ghavri,BS Bedi,0.2,0.55,0.93,0.78,0.72,0.41000000000000003,0.66,0.52
+SR Tendulkar,S Ramesh,V Kohli,GR Viswanath,NR Mongia,AD Gaekwad,S Venkataraghavan,EAS Prasanna,BKV Prasad,PP Ojha,R Ashwin,0.86,0.34,0.15,0.54,0.44,0.52,0.47000000000000003,0.36
+NR Mongia,MS Dhoni,AL Wadekar,ED Solkar,SM Patil,G Gambhir,BS Chandrasekhar,S Sreesanth,Maninder Singh,PP Ojha,EAS Prasanna,0.32,0.47000000000000003,0.32,0.14,0.8300000000000001,0.67,0.18,0.9
+ED Solkar,V Sehwag,DB Vengsarkar,NS Sidhu,CPS Chauhan,Yuvraj Singh,KD Ghavri,S Venkataraghavan,PP Ojha,EAS Prasanna,BS Bedi,0.86,0.66,0.88,0.77,0.86,0.4,0.81,0.5700000000000001
+CA Pujara,CPS Chauhan,V Sehwag,K Srikkanth,NR Mongia,SC Ganguly,DR Doshi,NS Yadav,BKV Prasad,BS Chandrasekhar,SLV Raju,0.84,0.15,0.06,0.74,0.91,0.65,0.62,0.27
+SV Manjrekar,ED Solkar,R Dravid,M Azharuddin,M Vijay,W Jaffer,SLV Raju,BS Bedi,AB Agarkar,DR Doshi,I Sharma,0.46,0.1,0.7000000000000001,0.26,0.68,0.48,0.46,0.81
+M Amarnath,SC Ganguly,R Dravid,V Kohli,Yuvraj Singh,AD Gaekwad,BS Bedi,C Sharma,AB Agarkar,EAS Prasanna,S Sreesanth,0.52,0.74,0.86,0.06,0.5,0.15,0.96,0.36
+MAK Pataudi,SS Das,M Amarnath,M Vijay,R Dravid,SC Ganguly,S Sreesanth,DR Doshi,S Venkataraghavan,BKV Prasad,R Ashwin,0.63,0.15,0.2,0.72,0.77,0.38,0.6,0.5
+V Kohli,SR Tendulkar,CPS Chauhan,SMH Kirmani,DB Vengsarkar,K Srikkanth,BS Chandrasekhar,BS Bedi,EAS Prasanna,AB Agarkar,BKV Prasad,0.5,0.22,0.96,0.02,0.67,0.24,0.3,0.24
+R Dravid,Yuvraj Singh,MS Dhoni,GR Viswanath,S Ramesh,Yashpal Sharma,NS Yadav,C Sharma,R Ashwin,S Venkataraghavan,BS Bedi,0.56,0.93,0.88,0.13,0.79,0.76,0.72,0.19
+NS Sidhu,Yashpal Sharma,AD Gaekwad,SM Patil,G Gambhir,AL Wadekar,KD Ghavri,BKV Prasad,C Sharma,DR Doshi,BS Bedi,0.35000000000000003,0.6900000000000001,0.23,0.37,0.45,0.22,0.32,0.26
+AD Gaekwad,FM Engineer,V Kohli,G Gambhir,K Srikkanth,SC Ganguly,BS Chandrasekhar,C Sharma,BS Bedi,SLV Raju,Maninder Singh,0.87,0.99,0.1,0.67,0.9,0.85,0.76,0.64
+FM Engineer,SV Manjrekar,SMH Kirmani,Yashpal Sharma,SS Das,M Azharuddin,DR Doshi,Maninder Singh,NS Yadav,BKV Prasad,EAS Prasanna,0.09,0.36,0.48,0.38,0.34,0.71,0.12,0.02
+NS Sidhu,SC Ganguly,DN Sardesai,MAK Pataudi,SV Manjrekar,M Vijay,I Sharma,PP Ojha,KD Ghavri,R Ashwin,NS Yadav,0.34,0.38,0.63,0.61,0.2,0.27,0.11,0.67
+NR Mongia,M Amarnath,FM Engineer,K Srikkanth,ED Solkar,MS Dhoni,BKV Prasad,AB Agarkar,S Venkataraghavan,C Sharma,BS Bedi,0.22,0.88,0.16,0.45,0.49,0.47000000000000003,0.09,0.65
+DB Vengsarkar,MAK Pataudi,Yuvraj Singh,SM Patil,SM Gavaskar,AL Wadekar,BS Chandrasekhar,Maninder Singh,PP Ojha,C Sharma,I Sharma,0.51,0.8200000000000001,0.04,0.81,0.91,0.9,0.29,0.72
+AD Gaekwad,SV Manjrekar,Yashpal Sharma,S Ramesh,AL Wadekar,M Amarnath,S Sreesanth,S Venkataraghavan,C Sharma,SLV Raju,AB Agarkar,0.27,0.48,0.85,0.8300000000000001,0.96,0.22,0.92,0.12
+M Amarnath,DB Vengsarkar,V Kohli,SS Das,G Gambhir,ED Solkar,BS Bedi,SLV Raju,BS Chandrasekhar,R Ashwin,EAS Prasanna,0.84,0.81,0.56,0.48,0.84,0.17,0.04,0.27
+SM Patil,Yuvraj Singh,MS Dhoni,AD Gaekwad,DN Sardesai,S Abid Ali,BKV Prasad,S Sreesanth,Maninder Singh,AB Agarkar,PP Ojha,0.38,0.52,0.3,0.86,0.7000000000000001,0.34,0.22,0.8300000000000001
+FM Engineer,SS Das,W Jaffer,G Gambhir,NS Sidhu,GR Viswanath,I Sharma,PP Ojha,R Ashwin,BS Chandrasekhar,S Venkataraghavan,0.32,0.09,0.45,0.02,0.08,0.97,0.72,0.19
+SV Manjrekar,DB Vengsarkar,AL Wadekar,G Gambhir,S Abid Ali,M Azharuddin,NS Yadav,SLV Raju,S Sreesanth,KD Ghavri,S Venkataraghavan,0.91,0.03,0.09,0.5,0.32,0.17,0.63,0.9
+FM Engineer,S Abid Ali,S Ramesh,AL Wadekar,VVS Laxman,Yashpal Sharma,S Venkataraghavan,AB Agarkar,R Ashwin,PP Ojha,BS Bedi,0.55,0.06,0.26,0.11,0.75,0.32,0.23,0.85
+S Ramesh,NS Sidhu,SV Manjrekar,Yuvraj Singh,V Kohli,SM Patil,S Venkataraghavan,I Sharma,KD Ghavri,S Sreesanth,BS Bedi,0.66,0.32,0.84,0.02,0.08,0.17,0.08,0.39
+V Kohli,ED Solkar,SM Gavaskar,MAK Pataudi,FM Engineer,SM Patil,C Sharma,AB Agarkar,R Ashwin,S Sreesanth,EAS Prasanna,0.54,0.5700000000000001,0.4,0.01,0.88,0.97,0.27,0.2
+SM Gavaskar,G Gambhir,ED Solkar,DB Vengsarkar,M Azharuddin,CA Pujara,KD Ghavri,S Venkataraghavan,BS Chandrasekhar,PP Ojha,BKV Prasad,0.5,0.31,0.13,0.14,0.03,0.18,0.3,0.96
+SV Manjrekar,R Dravid,VVS Laxman,GR Viswanath,AD Gaekwad,G Gambhir,DR Doshi,I Sharma,EAS Prasanna,NS Yadav,R Ashwin,0.02,0.9400000000000001,0.03,0.35000000000000003,0.36,0.78,0.0,0.28
+G Gambhir,SC Ganguly,AL Wadekar,Yashpal Sharma,S Abid Ali,SR Tendulkar,EAS Prasanna,NS Yadav,R Ashwin,I Sharma,S Venkataraghavan,0.47000000000000003,0.34,0.64,0.51,0.06,0.14,0.31,0.65
+ED Solkar,SS Das,CPS Chauhan,V Kohli,GR Viswanath,SC Ganguly,EAS Prasanna,BS Bedi,KD Ghavri,BS Chandrasekhar,Maninder Singh,0.78,0.87,0.0,0.0,0.71,0.21,0.29,0.44
+SM Gavaskar,NS Sidhu,S Ramesh,GR Viswanath,ED Solkar,SS Das,S Venkataraghavan,NS Yadav,PP Ojha,C Sharma,DR Doshi,0.33,0.32,0.25,0.63,0.67,0.93,0.33,0.9
+S Ramesh,SMH Kirmani,Yashpal Sharma,DB Vengsarkar,GR Viswanath,V Sehwag,C Sharma,AB Agarkar,EAS Prasanna,S Sreesanth,SLV Raju,0.63,0.8,0.27,0.87,0.72,0.92,0.7000000000000001,0.04
+NR Mongia,S Abid Ali,SR Tendulkar,S Ramesh,NS Sidhu,ED Solkar,R Ashwin,BS Chandrasekhar,S Sreesanth,BS Bedi,SLV Raju,0.58,0.5700000000000001,0.9400000000000001,0.42,0.22,0.5700000000000001,0.5,0.44
+W Jaffer,MAK Pataudi,NR Mongia,DN Sardesai,SS Das,M Amarnath,KD Ghavri,PP Ojha,AB Agarkar,SLV Raju,EAS Prasanna,0.03,0.37,0.45,0.39,0.16,0.0,0.18,0.15
+CA Pujara,SS Das,Yashpal Sharma,NS Sidhu,S Abid Ali,G Gambhir,KD Ghavri,AB Agarkar,BS Chandrasekhar,S Sreesanth,BKV Prasad,0.7000000000000001,0.43,0.18,0.01,0.2,0.97,0.5,0.42
+M Vijay,SS Das,DB Vengsarkar,S Ramesh,NS Sidhu,MAK Pataudi,EAS Prasanna,SLV Raju,S Venkataraghavan,Maninder Singh,BKV Prasad,0.26,0.25,0.52,0.89,0.35000000000000003,0.22,0.87,0.25
+VVS Laxman,SC Ganguly,V Kohli,Yuvraj Singh,V Sehwag,S Abid Ali,BKV Prasad,I Sharma,EAS Prasanna,BS Chandrasekhar,AB Agarkar,0.67,0.47000000000000003,0.0,0.1,0.43,0.18,0.19,0.39
+SV Manjrekar,S Abid Ali,MS Dhoni,R Dravid,GR Viswanath,V Sehwag,EAS Prasanna,BS Chandrasekhar,BKV Prasad,NS Yadav,SLV Raju,0.45,0.92,0.8200000000000001,0.45,0.88,0.49,0.21,0.17
+VVS Laxman,M Azharuddin,V Sehwag,AL Wadekar,NS Sidhu,DN Sardesai,NS Yadav,DR Doshi,KD Ghavri,AB Agarkar,R Ashwin,0.92,0.02,0.07,0.73,0.86,0.66,0.46,0.51
+SM Patil,CPS Chauhan,K Srikkanth,M Amarnath,R Dravid,NS Sidhu,BS Chandrasekhar,DR Doshi,EAS Prasanna,SLV Raju,BS Bedi,0.2,0.96,0.22,0.5,0.13,0.39,0.39,0.9
+CPS Chauhan,NS Sidhu,FM Engineer,M Azharuddin,M Vijay,KS More,SLV Raju,S Sreesanth,I Sharma,BS Chandrasekhar,PP Ojha,0.12,0.18,0.68,0.96,0.44,0.07,0.6,0.55
+MAK Pataudi,W Jaffer,CPS Chauhan,R Dravid,Yashpal Sharma,SM Gavaskar,I Sharma,S Venkataraghavan,EAS Prasanna,S Sreesanth,NS Yadav,0.76,0.72,0.13,0.38,0.36,0.79,0.14,0.37
+MAK Pataudi,DN Sardesai,AD Gaekwad,M Azharuddin,G Gambhir,DB Vengsarkar,I Sharma,BS Chandrasekhar,Maninder Singh,SLV Raju,AB Agarkar,0.34,0.35000000000000003,0.43,0.17,0.86,0.71,0.63,0.0
+M Vijay,AD Gaekwad,SR Tendulkar,K Srikkanth,MS Dhoni,CPS Chauhan,AB Agarkar,DR Doshi,EAS Prasanna,BS Bedi,SLV Raju,0.31,0.91,0.42,0.3,0.61,0.14,0.59,0.59
+M Vijay,K Srikkanth,CPS Chauhan,SV Manjrekar,DB Vengsarkar,SM Gavaskar,S Venkataraghavan,SLV Raju,C Sharma,S Sreesanth,BKV Prasad,0.88,0.44,0.92,0.78,0.9,0.35000000000000003,0.27,0.96
+NR Mongia,SS Das,SC Ganguly,S Ramesh,KS More,CPS Chauhan,Maninder Singh,C Sharma,AB Agarkar,PP Ojha,KD Ghavri,0.65,0.32,0.07,0.03,0.12,0.48,0.9400000000000001,0.61
+V Kohli,S Abid Ali,S Ramesh,MS Dhoni,W Jaffer,SV Manjrekar,C Sharma,AB Agarkar,S Sreesanth,BS Bedi,KD Ghavri,0.12,0.9400000000000001,0.35000000000000003,0.91,0.92,0.67,0.31,0.21
+MAK Pataudi,AL Wadekar,GR Viswanath,V Sehwag,M Vijay,K Srikkanth,C Sharma,DR Doshi,PP Ojha,Maninder Singh,AB Agarkar,0.37,0.25,0.06,0.34,0.32,0.31,0.18,0.38
+SM Patil,G Gambhir,DB Vengsarkar,S Ramesh,V Sehwag,M Azharuddin,BKV Prasad,KD Ghavri,R Ashwin,I Sharma,C Sharma,0.11,0.04,0.53,0.21,0.87,0.05,0.3,0.55
+SC Ganguly,S Abid Ali,CPS Chauhan,S Ramesh,K Srikkanth,CA Pujara,EAS Prasanna,BS Chandrasekhar,PP Ojha,S Sreesanth,S Venkataraghavan,0.5700000000000001,0.28,0.29,0.47000000000000003,0.52,0.26,0.53,0.8
+NR Mongia,VVS Laxman,V Sehwag,FM Engineer,M Azharuddin,R Dravid,KD Ghavri,C Sharma,DR Doshi,I Sharma,AB Agarkar,0.34,0.46,0.3,0.8300000000000001,0.47000000000000003,0.27,0.99,0.49
+S Ramesh,W Jaffer,MS Dhoni,S Abid Ali,NS Sidhu,AD Gaekwad,R Ashwin,BS Bedi,S Venkataraghavan,KD Ghavri,C Sharma,0.47000000000000003,0.17,0.1,0.27,0.35000000000000003,0.08,0.48,0.59
+M Vijay,V Kohli,MS Dhoni,CA Pujara,SC Ganguly,DB Vengsarkar,DR Doshi,BKV Prasad,S Sreesanth,KD Ghavri,EAS Prasanna,0.33,0.45,0.5,0.68,0.01,0.42,0.97,0.36
+G Gambhir,CPS Chauhan,Yuvraj Singh,FM Engineer,MAK Pataudi,SV Manjrekar,BS Bedi,S Sreesanth,S Venkataraghavan,EAS Prasanna,SLV Raju,0.91,0.21,0.74,0.86,0.2,0.73,0.68,0.25
+SM Gavaskar,CPS Chauhan,KS More,R Dravid,SV Manjrekar,S Abid Ali,NS Yadav,S Sreesanth,DR Doshi,BKV Prasad,SLV Raju,0.67,0.41000000000000003,0.64,0.31,0.3,0.62,0.5700000000000001,0.68
+SS Das,CA Pujara,MAK Pataudi,S Ramesh,VVS Laxman,S Abid Ali,EAS Prasanna,AB Agarkar,BS Bedi,SLV Raju,S Sreesanth,0.41000000000000003,0.52,0.42,0.8300000000000001,0.41000000000000003,0.66,0.66,0.16
+FM Engineer,VVS Laxman,Yuvraj Singh,M Azharuddin,CPS Chauhan,W Jaffer,BKV Prasad,BS Bedi,AB Agarkar,S Sreesanth,NS Yadav,0.61,0.84,0.24,0.56,0.03,0.77,0.48,0.25
+NR Mongia,SR Tendulkar,GR Viswanath,MAK Pataudi,KS More,DB Vengsarkar,C Sharma,S Sreesanth,BS Chandrasekhar,BS Bedi,SLV Raju,0.18,0.43,0.89,0.53,0.5,0.11,0.44,0.15
+MAK Pataudi,Yashpal Sharma,K Srikkanth,V Sehwag,FM Engineer,ED Solkar,NS Yadav,BS Bedi,BS Chandrasekhar,SLV Raju,KD Ghavri,0.1,0.49,0.37,0.19,0.77,0.12,0.19,0.59
+M Azharuddin,Yuvraj Singh,KS More,MS Dhoni,M Amarnath,S Abid Ali,C Sharma,BS Bedi,SLV Raju,S Venkataraghavan,BS Chandrasekhar,0.54,0.99,0.0,0.86,0.3,0.99,0.47000000000000003,0.41000000000000003
+VVS Laxman,CA Pujara,MAK Pataudi,Yashpal Sharma,M Vijay,KS More,Maninder Singh,KD Ghavri,BS Chandrasekhar,I Sharma,BKV Prasad,0.02,0.66,0.66,0.34,0.43,0.9,0.21,0.46
+G Gambhir,M Azharuddin,GR Viswanath,Yuvraj Singh,W Jaffer,M Vijay,BS Chandrasekhar,Maninder Singh,DR Doshi,NS Yadav,PP Ojha,0.44,0.8,0.96,0.51,0.14,0.86,0.54,0.29
+G Gambhir,S Abid Ali,GR Viswanath,MS Dhoni,V Sehwag,W Jaffer,BS Bedi,Maninder Singh,KD Ghavri,S Venkataraghavan,PP Ojha,0.71,0.9,0.35000000000000003,0.71,0.11,0.51,0.55,0.74
+K Srikkanth,CA Pujara,VVS Laxman,GR Viswanath,NS Sidhu,SV Manjrekar,Maninder Singh,BS Chandrasekhar,NS Yadav,S Sreesanth,AB Agarkar,0.87,0.11,0.62,0.87,0.68,0.74,0.93,0.48
+NR Mongia,M Azharuddin,Yuvraj Singh,K Srikkanth,SMH Kirmani,AD Gaekwad,AB Agarkar,EAS Prasanna,PP Ojha,I Sharma,C Sharma,0.58,0.86,0.93,0.92,0.39,0.1,0.01,0.16
+ED Solkar,SMH Kirmani,KS More,V Sehwag,SR Tendulkar,SC Ganguly,AB Agarkar,BS Bedi,EAS Prasanna,DR Doshi,SLV Raju,0.86,0.91,0.72,0.27,0.25,0.23,0.84,0.6
+G Gambhir,K Srikkanth,Yashpal Sharma,Yuvraj Singh,MAK Pataudi,SV Manjrekar,EAS Prasanna,SLV Raju,DR Doshi,S Sreesanth,BS Bedi,0.93,0.87,0.68,0.23,0.07,0.76,0.31,0.27
+MS Dhoni,SMH Kirmani,DB Vengsarkar,W Jaffer,V Sehwag,ED Solkar,S Venkataraghavan,S Sreesanth,Maninder Singh,DR Doshi,SLV Raju,0.38,0.0,0.59,0.73,0.73,0.29,0.48,0.53
+SC Ganguly,V Kohli,MAK Pataudi,S Abid Ali,DN Sardesai,DB Vengsarkar,S Sreesanth,PP Ojha,Maninder Singh,BS Bedi,AB Agarkar,0.89,0.97,0.8200000000000001,0.07,0.14,0.35000000000000003,0.65,0.84
+W Jaffer,R Dravid,SM Gavaskar,M Vijay,V Kohli,SMH Kirmani,S Venkataraghavan,NS Yadav,BKV Prasad,BS Chandrasekhar,S Sreesanth,0.62,0.05,0.7000000000000001,0.36,0.33,0.46,0.17,0.07
+GR Viswanath,M Vijay,Yashpal Sharma,G Gambhir,ED Solkar,SM Gavaskar,BS Bedi,NS Yadav,SLV Raju,S Venkataraghavan,Maninder Singh,0.62,0.01,0.93,0.08,0.6,0.32,0.22,0.06
+AL Wadekar,SV Manjrekar,SMH Kirmani,G Gambhir,AD Gaekwad,GR Viswanath,AB Agarkar,C Sharma,I Sharma,SLV Raju,KD Ghavri,0.06,0.16,0.29,0.04,0.89,0.98,0.88,0.99
+K Srikkanth,Yashpal Sharma,MS Dhoni,W Jaffer,V Sehwag,NR Mongia,BS Chandrasekhar,SLV Raju,PP Ojha,I Sharma,AB Agarkar,0.53,0.14,0.78,0.63,0.38,0.09,0.58,0.8
+MAK Pataudi,SC Ganguly,KS More,M Vijay,M Amarnath,SS Das,DR Doshi,NS Yadav,R Ashwin,BS Bedi,AB Agarkar,0.98,0.24,0.14,0.45,0.47000000000000003,0.73,0.85,0.08
+S Ramesh,VVS Laxman,SS Das,V Sehwag,NR Mongia,ED Solkar,SLV Raju,KD Ghavri,BS Chandrasekhar,S Venkataraghavan,PP Ojha,0.12,0.02,0.42,0.4,0.53,0.75,0.46,0.76
+R Dravid,CPS Chauhan,GR Viswanath,ED Solkar,DB Vengsarkar,SS Das,EAS Prasanna,NS Yadav,Maninder Singh,BS Bedi,S Sreesanth,0.8,0.84,0.8300000000000001,0.97,0.16,0.8300000000000001,0.71,0.65
+Yuvraj Singh,M Amarnath,SR Tendulkar,K Srikkanth,V Sehwag,G Gambhir,Maninder Singh,SLV Raju,BS Bedi,BS Chandrasekhar,KD Ghavri,0.11,0.76,0.53,0.22,0.96,0.81,0.91,0.15
+M Vijay,ED Solkar,S Abid Ali,AL Wadekar,VVS Laxman,SS Das,C Sharma,S Venkataraghavan,PP Ojha,SLV Raju,NS Yadav,0.41000000000000003,0.7000000000000001,0.84,0.07,0.03,0.4,0.07,0.75
+SS Das,AL Wadekar,SM Patil,S Abid Ali,AD Gaekwad,MS Dhoni,BKV Prasad,KD Ghavri,Maninder Singh,R Ashwin,DR Doshi,0.02,0.74,0.81,0.45,0.09,0.98,0.05,0.48
+SM Gavaskar,Yashpal Sharma,M Amarnath,VVS Laxman,M Vijay,W Jaffer,BS Bedi,EAS Prasanna,S Sreesanth,AB Agarkar,KD Ghavri,0.6900000000000001,0.26,0.03,0.11,0.79,0.7000000000000001,0.99,0.78
+V Kohli,R Dravid,G Gambhir,S Ramesh,K Srikkanth,MAK Pataudi,AB Agarkar,Maninder Singh,DR Doshi,SLV Raju,I Sharma,0.8200000000000001,0.41000000000000003,0.48,0.04,0.28,0.61,0.61,0.8
+ED Solkar,Yashpal Sharma,KS More,DB Vengsarkar,MAK Pataudi,V Kohli,Maninder Singh,BS Bedi,SLV Raju,NS Yadav,R Ashwin,0.31,0.19,0.39,0.26,0.03,0.64,0.6,0.9
+NS Sidhu,M Vijay,NR Mongia,SM Patil,CPS Chauhan,SM Gavaskar,AB Agarkar,Maninder Singh,PP Ojha,S Venkataraghavan,I Sharma,0.46,0.1,0.93,0.6900000000000001,0.8,0.37,0.07,0.65
+NS Sidhu,SC Ganguly,R Dravid,G Gambhir,SV Manjrekar,AD Gaekwad,I Sharma,NS Yadav,S Venkataraghavan,R Ashwin,DR Doshi,0.51,0.6900000000000001,0.29,0.76,0.78,0.35000000000000003,0.79,0.42
+M Azharuddin,KS More,G Gambhir,AL Wadekar,Yashpal Sharma,NR Mongia,BKV Prasad,DR Doshi,R Ashwin,BS Chandrasekhar,AB Agarkar,0.62,0.81,0.32,0.03,0.63,0.97,0.87,0.67
+AD Gaekwad,S Ramesh,SV Manjrekar,M Vijay,DB Vengsarkar,GR Viswanath,BS Bedi,C Sharma,AB Agarkar,R Ashwin,NS Yadav,0.32,0.72,0.68,0.25,0.74,0.5700000000000001,0.11,0.17
+AD Gaekwad,KS More,GR Viswanath,SV Manjrekar,V Sehwag,DN Sardesai,EAS Prasanna,Maninder Singh,BKV Prasad,AB Agarkar,KD Ghavri,0.8200000000000001,0.07,0.36,0.81,0.61,0.41000000000000003,0.87,0.07
+SM Gavaskar,AL Wadekar,V Sehwag,AD Gaekwad,ED Solkar,R Dravid,SLV Raju,S Sreesanth,PP Ojha,AB Agarkar,S Venkataraghavan,0.09,0.61,0.38,0.32,0.86,0.71,0.11,0.14
+NS Sidhu,G Gambhir,SM Patil,AD Gaekwad,SM Gavaskar,ED Solkar,S Venkataraghavan,EAS Prasanna,BS Chandrasekhar,Maninder Singh,PP Ojha,0.11,0.89,0.93,0.81,0.28,0.35000000000000003,0.51,0.72
+AL Wadekar,NS Sidhu,NR Mongia,S Abid Ali,MAK Pataudi,AD Gaekwad,EAS Prasanna,S Sreesanth,I Sharma,R Ashwin,DR Doshi,0.54,0.42,0.63,0.19,0.3,0.73,0.63,0.96
+NS Sidhu,W Jaffer,CA Pujara,SR Tendulkar,M Azharuddin,VVS Laxman,BKV Prasad,R Ashwin,I Sharma,BS Bedi,AB Agarkar,0.53,0.6900000000000001,0.5700000000000001,0.88,0.65,0.85,0.86,0.81
+MS Dhoni,K Srikkanth,SM Gavaskar,GR Viswanath,V Sehwag,SMH Kirmani,S Venkataraghavan,BS Chandrasekhar,NS Yadav,R Ashwin,AB Agarkar,0.41000000000000003,0.44,0.49,0.28,0.21,0.38,0.5700000000000001,0.58
+SS Das,SC Ganguly,NR Mongia,SR Tendulkar,SV Manjrekar,SM Gavaskar,BS Bedi,S Sreesanth,NS Yadav,EAS Prasanna,KD Ghavri,0.04,0.01,0.91,0.74,0.81,0.92,0.84,0.04
+S Ramesh,SM Patil,G Gambhir,M Vijay,DB Vengsarkar,SR Tendulkar,SLV Raju,DR Doshi,S Sreesanth,S Venkataraghavan,KD Ghavri,0.96,0.79,0.19,0.41000000000000003,0.21,0.62,0.93,0.18
+MS Dhoni,SS Das,VVS Laxman,R Dravid,V Sehwag,SM Gavaskar,S Venkataraghavan,C Sharma,BKV Prasad,NS Yadav,EAS Prasanna,0.26,0.02,0.8,0.1,0.27,0.61,0.93,0.38
+FM Engineer,SMH Kirmani,VVS Laxman,DN Sardesai,M Azharuddin,KS More,PP Ojha,EAS Prasanna,BKV Prasad,BS Chandrasekhar,KD Ghavri,0.34,0.39,0.97,0.45,0.55,0.65,0.86,0.85
+M Vijay,MAK Pataudi,DN Sardesai,SC Ganguly,Yuvraj Singh,V Sehwag,AB Agarkar,C Sharma,Maninder Singh,BS Chandrasekhar,BKV Prasad,0.96,0.06,0.72,0.16,0.41000000000000003,0.5700000000000001,0.11,0.07
+DB Vengsarkar,V Kohli,KS More,M Amarnath,NS Sidhu,ED Solkar,I Sharma,DR Doshi,C Sharma,Maninder Singh,R Ashwin,0.67,0.13,0.43,0.19,0.6900000000000001,0.27,0.74,0.55
+M Vijay,K Srikkanth,Yashpal Sharma,M Azharuddin,SS Das,R Dravid,KD Ghavri,S Sreesanth,BS Bedi,S Venkataraghavan,PP Ojha,0.92,0.79,0.54,0.62,0.29,0.41000000000000003,0.74,0.42
+SC Ganguly,SV Manjrekar,NS Sidhu,DN Sardesai,ED Solkar,Yuvraj Singh,NS Yadav,S Sreesanth,R Ashwin,KD Ghavri,S Venkataraghavan,0.1,0.22,0.33,0.49,0.97,0.05,0.65,0.89
+Yashpal Sharma,MS Dhoni,G Gambhir,W Jaffer,AL Wadekar,KS More,NS Yadav,PP Ojha,C Sharma,EAS Prasanna,S Sreesanth,0.34,0.32,0.29,0.11,0.08,0.88,0.05,0.92
+CA Pujara,NR Mongia,K Srikkanth,SC Ganguly,SM Gavaskar,NS Sidhu,S Venkataraghavan,KD Ghavri,S Sreesanth,SLV Raju,C Sharma,0.22,0.75,0.59,0.02,0.86,0.79,0.11,0.97
+VVS Laxman,AL Wadekar,KS More,S Abid Ali,Yuvraj Singh,M Azharuddin,BKV Prasad,I Sharma,AB Agarkar,PP Ojha,DR Doshi,0.26,0.73,0.53,0.66,0.84,0.1,0.66,0.19
+S Abid Ali,Yashpal Sharma,MS Dhoni,SS Das,NS Sidhu,GR Viswanath,KD Ghavri,EAS Prasanna,I Sharma,BKV Prasad,BS Chandrasekhar,0.78,0.59,0.32,0.38,0.9,0.08,0.87,0.28
+V Sehwag,K Srikkanth,GR Viswanath,MS Dhoni,G Gambhir,AL Wadekar,PP Ojha,S Venkataraghavan,R Ashwin,NS Yadav,BKV Prasad,0.09,0.1,0.86,0.32,0.73,0.61,0.47000000000000003,0.04
+W Jaffer,Yuvraj Singh,NR Mongia,G Gambhir,Yashpal Sharma,VVS Laxman,BS Chandrasekhar,SLV Raju,BS Bedi,C Sharma,PP Ojha,0.45,0.12,0.5700000000000001,0.54,0.5,0.42,0.53,0.67
+Yuvraj Singh,W Jaffer,DN Sardesai,V Kohli,S Abid Ali,GR Viswanath,BS Bedi,DR Doshi,S Sreesanth,AB Agarkar,I Sharma,0.26,0.8300000000000001,0.97,0.99,0.19,0.08,0.86,0.35000000000000003
+W Jaffer,R Dravid,K Srikkanth,M Amarnath,M Vijay,Yashpal Sharma,S Venkataraghavan,AB Agarkar,R Ashwin,Maninder Singh,S Sreesanth,0.03,0.92,0.54,0.68,0.9400000000000001,0.25,0.86,0.78
+SV Manjrekar,V Sehwag,SM Patil,W Jaffer,S Abid Ali,G Gambhir,DR Doshi,S Sreesanth,PP Ojha,Maninder Singh,I Sharma,0.75,0.77,0.46,0.87,0.99,0.52,0.04,0.39
+MAK Pataudi,Yashpal Sharma,V Kohli,SV Manjrekar,V Sehwag,CA Pujara,KD Ghavri,S Sreesanth,BS Bedi,AB Agarkar,NS Yadav,0.36,0.22,0.8,0.8200000000000001,0.19,0.36,0.38,0.85
+MS Dhoni,AL Wadekar,CA Pujara,K Srikkanth,ED Solkar,G Gambhir,S Venkataraghavan,BS Chandrasekhar,AB Agarkar,C Sharma,BS Bedi,0.21,0.6900000000000001,0.11,0.27,0.92,0.11,0.49,0.52
+FM Engineer,VVS Laxman,NR Mongia,SM Patil,K Srikkanth,GR Viswanath,DR Doshi,S Sreesanth,S Venkataraghavan,KD Ghavri,PP Ojha,0.54,0.74,0.58,0.73,0.14,0.67,0.13,0.79
+Yuvraj Singh,V Sehwag,M Azharuddin,CA Pujara,FM Engineer,R Dravid,C Sharma,DR Doshi,KD Ghavri,SLV Raju,BKV Prasad,0.97,0.38,0.99,0.04,0.5700000000000001,0.34,0.27,0.01
+ED Solkar,DB Vengsarkar,GR Viswanath,S Abid Ali,S Ramesh,MAK Pataudi,I Sharma,S Venkataraghavan,Maninder Singh,R Ashwin,BKV Prasad,0.34,0.99,0.63,0.67,0.18,0.31,0.67,0.81
+SMH Kirmani,G Gambhir,FM Engineer,M Amarnath,SM Gavaskar,CPS Chauhan,BKV Prasad,I Sharma,PP Ojha,S Sreesanth,DR Doshi,0.09,0.71,0.21,0.9500000000000001,0.38,0.02,0.39,0.16
+MAK Pataudi,GR Viswanath,M Amarnath,S Ramesh,CA Pujara,V Kohli,S Venkataraghavan,R Ashwin,C Sharma,SLV Raju,NS Yadav,0.37,0.45,0.07,0.05,0.2,0.62,0.74,0.87
+M Amarnath,W Jaffer,G Gambhir,S Abid Ali,VVS Laxman,KS More,Maninder Singh,PP Ojha,S Sreesanth,KD Ghavri,I Sharma,0.81,0.2,0.87,0.56,0.18,0.59,0.85,0.01
+SR Tendulkar,CA Pujara,AD Gaekwad,Yuvraj Singh,VVS Laxman,SC Ganguly,AB Agarkar,Maninder Singh,S Venkataraghavan,C Sharma,S Sreesanth,0.27,0.48,0.0,0.68,0.28,0.71,0.8200000000000001,0.41000000000000003
+FM Engineer,CPS Chauhan,SMH Kirmani,SM Gavaskar,GR Viswanath,MAK Pataudi,PP Ojha,Maninder Singh,AB Agarkar,KD Ghavri,BS Bedi,0.3,0.11,0.03,0.11,0.32,0.89,0.91,0.22
+NS Sidhu,SMH Kirmani,SM Gavaskar,M Vijay,SM Patil,AD Gaekwad,S Venkataraghavan,R Ashwin,BKV Prasad,C Sharma,EAS Prasanna,0.53,0.65,0.9500000000000001,0.52,0.27,0.01,0.54,0.48
+CPS Chauhan,KS More,SS Das,SR Tendulkar,MS Dhoni,M Azharuddin,BS Chandrasekhar,R Ashwin,PP Ojha,KD Ghavri,BS Bedi,0.86,0.9,0.39,0.85,0.87,0.47000000000000003,0.27,0.08
+SS Das,CPS Chauhan,M Azharuddin,SV Manjrekar,M Amarnath,KS More,SLV Raju,NS Yadav,DR Doshi,BS Chandrasekhar,I Sharma,0.04,0.34,0.35000000000000003,0.97,0.89,0.65,0.06,0.5
+ED Solkar,Yashpal Sharma,VVS Laxman,AL Wadekar,SR Tendulkar,G Gambhir,BS Chandrasekhar,Maninder Singh,EAS Prasanna,BKV Prasad,KD Ghavri,0.46,0.22,0.46,0.79,0.59,0.53,0.62,0.45
+Yuvraj Singh,ED Solkar,SR Tendulkar,AL Wadekar,NS Sidhu,NR Mongia,AB Agarkar,BS Bedi,S Venkataraghavan,KD Ghavri,I Sharma,0.29,0.9400000000000001,0.36,0.28,0.19,0.02,0.6900000000000001,0.59
+Yuvraj Singh,K Srikkanth,FM Engineer,G Gambhir,DB Vengsarkar,S Abid Ali,BS Bedi,S Sreesanth,C Sharma,BS Chandrasekhar,R Ashwin,0.76,0.92,0.56,0.91,0.65,0.65,0.8,0.53
+R Dravid,VVS Laxman,SMH Kirmani,V Sehwag,GR Viswanath,FM Engineer,S Sreesanth,AB Agarkar,S Venkataraghavan,Maninder Singh,I Sharma,0.08,0.6900000000000001,0.9,0.59,0.35000000000000003,0.59,0.72,0.8300000000000001
+W Jaffer,Yashpal Sharma,M Amarnath,CPS Chauhan,VVS Laxman,M Azharuddin,KD Ghavri,BS Bedi,BS Chandrasekhar,S Sreesanth,AB Agarkar,0.86,0.23,0.34,0.78,0.92,0.5,0.8200000000000001,0.98
+SM Patil,NS Sidhu,SS Das,V Kohli,CA Pujara,MS Dhoni,BS Bedi,DR Doshi,EAS Prasanna,AB Agarkar,BKV Prasad,0.8200000000000001,0.96,0.81,0.6,0.71,0.64,0.17,0.84
+NR Mongia,SC Ganguly,KS More,ED Solkar,MS Dhoni,R Dravid,R Ashwin,BKV Prasad,Maninder Singh,DR Doshi,KD Ghavri,0.54,0.31,0.16,0.8300000000000001,0.8200000000000001,0.77,0.53,0.13
+CPS Chauhan,SM Gavaskar,Yashpal Sharma,MS Dhoni,DB Vengsarkar,MAK Pataudi,BS Bedi,Maninder Singh,DR Doshi,AB Agarkar,PP Ojha,0.21,0.24,0.32,0.47000000000000003,0.15,0.6,0.29,0.89
+DN Sardesai,SM Gavaskar,W Jaffer,SC Ganguly,GR Viswanath,K Srikkanth,BS Chandrasekhar,PP Ojha,BS Bedi,I Sharma,KD Ghavri,0.46,0.5700000000000001,0.53,0.87,0.79,0.59,0.36,0.61
+CPS Chauhan,SM Gavaskar,SR Tendulkar,CA Pujara,W Jaffer,V Sehwag,EAS Prasanna,S Sreesanth,Maninder Singh,SLV Raju,C Sharma,0.74,0.35000000000000003,0.9,0.03,0.38,0.85,0.21,0.53
+S Abid Ali,DN Sardesai,MAK Pataudi,M Amarnath,G Gambhir,KS More,BKV Prasad,PP Ojha,DR Doshi,BS Chandrasekhar,AB Agarkar,0.49,0.02,0.63,0.86,0.64,0.04,0.38,0.33
+M Vijay,SR Tendulkar,SM Patil,M Amarnath,G Gambhir,AL Wadekar,BS Chandrasekhar,BS Bedi,I Sharma,NS Yadav,PP Ojha,0.5,0.5700000000000001,0.15,0.45,0.32,0.35000000000000003,0.19,0.28
+VVS Laxman,AL Wadekar,SR Tendulkar,S Abid Ali,M Azharuddin,AD Gaekwad,EAS Prasanna,NS Yadav,S Sreesanth,PP Ojha,KD Ghavri,0.75,0.9500000000000001,0.89,0.37,0.98,0.79,0.09,0.24
+MAK Pataudi,SV Manjrekar,M Azharuddin,AL Wadekar,SR Tendulkar,NR Mongia,BS Chandrasekhar,C Sharma,S Venkataraghavan,I Sharma,BKV Prasad,0.31,0.54,0.18,0.06,0.87,0.51,0.29,0.51
+CA Pujara,DN Sardesai,K Srikkanth,SMH Kirmani,CPS Chauhan,MAK Pataudi,BKV Prasad,BS Chandrasekhar,Maninder Singh,S Venkataraghavan,EAS Prasanna,0.73,0.19,0.99,0.4,0.33,0.88,0.02,0.67
+AD Gaekwad,SM Gavaskar,V Sehwag,W Jaffer,ED Solkar,AL Wadekar,BS Chandrasekhar,PP Ojha,KD Ghavri,NS Yadav,BKV Prasad,0.84,0.04,0.63,0.5,0.24,0.51,0.81,0.51
+M Vijay,SV Manjrekar,MS Dhoni,DN Sardesai,NR Mongia,AL Wadekar,PP Ojha,Maninder Singh,C Sharma,R Ashwin,BKV Prasad,0.34,0.67,0.62,0.6900000000000001,0.38,0.42,0.47000000000000003,0.17
+FM Engineer,SV Manjrekar,KS More,V Sehwag,DN Sardesai,AD Gaekwad,BS Bedi,SLV Raju,EAS Prasanna,S Sreesanth,NS Yadav,0.4,0.67,0.51,0.93,0.62,0.87,0.65,0.8200000000000001
+KS More,SR Tendulkar,SV Manjrekar,V Kohli,S Ramesh,DN Sardesai,SLV Raju,I Sharma,BS Chandrasekhar,NS Yadav,S Venkataraghavan,0.14,0.6,0.18,0.04,0.18,0.37,0.45,0.13
+SMH Kirmani,SS Das,W Jaffer,V Kohli,S Ramesh,ED Solkar,EAS Prasanna,DR Doshi,R Ashwin,BS Chandrasekhar,S Venkataraghavan,0.67,0.44,0.28,0.37,0.04,0.79,0.7000000000000001,0.6900000000000001
+R Dravid,DN Sardesai,CPS Chauhan,MS Dhoni,K Srikkanth,NS Sidhu,Maninder Singh,S Venkataraghavan,DR Doshi,I Sharma,BKV Prasad,0.93,0.27,0.46,0.06,0.8,0.86,0.53,0.1
+NS Sidhu,FM Engineer,SMH Kirmani,DN Sardesai,M Amarnath,M Azharuddin,BKV Prasad,BS Chandrasekhar,PP Ojha,DR Doshi,SLV Raju,0.38,0.74,0.32,0.76,0.98,0.18,0.24,0.56
+VVS Laxman,M Amarnath,M Vijay,V Sehwag,KS More,G Gambhir,BKV Prasad,R Ashwin,PP Ojha,C Sharma,KD Ghavri,0.87,0.43,0.11,0.84,0.35000000000000003,0.41000000000000003,0.12,0.16
+KS More,M Azharuddin,M Amarnath,V Sehwag,NR Mongia,SS Das,BKV Prasad,DR Doshi,BS Chandrasekhar,EAS Prasanna,R Ashwin,0.79,0.8200000000000001,0.52,0.42,0.91,0.5700000000000001,0.8300000000000001,0.72
+SM Patil,SM Gavaskar,NS Sidhu,SR Tendulkar,GR Viswanath,M Vijay,AB Agarkar,EAS Prasanna,BKV Prasad,I Sharma,NS Yadav,0.16,0.99,0.44,0.92,0.0,0.48,0.85,0.18
+AD Gaekwad,M Amarnath,S Ramesh,KS More,Yuvraj Singh,S Abid Ali,C Sharma,R Ashwin,BKV Prasad,EAS Prasanna,AB Agarkar,0.33,0.75,0.2,0.17,0.9,0.8300000000000001,0.87,0.16
+SV Manjrekar,Yashpal Sharma,SS Das,MS Dhoni,GR Viswanath,SMH Kirmani,EAS Prasanna,KD Ghavri,DR Doshi,BS Bedi,R Ashwin,0.67,0.71,0.74,0.89,0.78,0.11,0.5,0.45
+VVS Laxman,CA Pujara,SMH Kirmani,ED Solkar,M Amarnath,S Abid Ali,BS Bedi,S Sreesanth,KD Ghavri,R Ashwin,NS Yadav,0.25,0.37,0.53,0.8200000000000001,0.12,0.37,0.62,0.11
+SM Gavaskar,AL Wadekar,SM Patil,MAK Pataudi,SMH Kirmani,KS More,S Venkataraghavan,Maninder Singh,I Sharma,SLV Raju,C Sharma,0.5700000000000001,0.79,0.09,0.75,0.3,0.33,0.42,0.6
+DN Sardesai,SR Tendulkar,SV Manjrekar,SM Patil,AD Gaekwad,CPS Chauhan,BKV Prasad,SLV Raju,C Sharma,I Sharma,EAS Prasanna,0.48,0.38,0.09,0.13,0.21,0.04,0.9,0.07
+S Ramesh,G Gambhir,W Jaffer,SS Das,SM Gavaskar,AD Gaekwad,DR Doshi,PP Ojha,NS Yadav,AB Agarkar,S Venkataraghavan,0.64,0.23,0.63,0.21,0.11,0.81,0.19,0.76
+S Ramesh,SC Ganguly,S Abid Ali,SR Tendulkar,ED Solkar,V Sehwag,C Sharma,I Sharma,SLV Raju,BS Bedi,KD Ghavri,0.92,0.9500000000000001,0.8300000000000001,0.49,0.28,0.59,0.8300000000000001,0.46
+W Jaffer,CPS Chauhan,GR Viswanath,VVS Laxman,V Kohli,FM Engineer,I Sharma,BS Chandrasekhar,R Ashwin,NS Yadav,SLV Raju,0.6,0.3,0.85,0.9,0.99,0.34,0.44,0.9400000000000001
+S Abid Ali,SV Manjrekar,SM Patil,NS Sidhu,CPS Chauhan,CA Pujara,EAS Prasanna,C Sharma,BS Chandrasekhar,SLV Raju,S Venkataraghavan,0.07,0.07,0.61,0.89,0.74,0.19,0.86,0.73
+G Gambhir,DN Sardesai,VVS Laxman,R Dravid,MAK Pataudi,CA Pujara,BS Chandrasekhar,KD Ghavri,S Sreesanth,DR Doshi,BKV Prasad,0.13,0.81,0.8300000000000001,0.28,0.01,0.85,0.07,0.17
+SM Gavaskar,M Vijay,KS More,AL Wadekar,V Sehwag,MAK Pataudi,AB Agarkar,Maninder Singh,SLV Raju,KD Ghavri,I Sharma,0.65,0.31,0.75,0.17,0.19,0.5,0.05,0.76
+K Srikkanth,SV Manjrekar,MAK Pataudi,Yashpal Sharma,SM Patil,CPS Chauhan,R Ashwin,BS Bedi,AB Agarkar,NS Yadav,SLV Raju,0.23,0.25,0.37,0.86,0.23,0.37,0.51,0.31
+Yashpal Sharma,SMH Kirmani,S Ramesh,ED Solkar,K Srikkanth,M Azharuddin,C Sharma,S Venkataraghavan,DR Doshi,KD Ghavri,SLV Raju,0.67,0.91,0.2,0.58,0.61,0.53,0.12,0.36
+W Jaffer,K Srikkanth,SM Patil,DB Vengsarkar,M Azharuddin,Yashpal Sharma,S Sreesanth,Maninder Singh,BS Chandrasekhar,AB Agarkar,DR Doshi,0.37,0.53,0.72,0.73,0.5,0.55,0.15,0.5700000000000001
+S Ramesh,VVS Laxman,CPS Chauhan,S Abid Ali,R Dravid,MS Dhoni,BS Chandrasekhar,AB Agarkar,C Sharma,S Venkataraghavan,PP Ojha,0.81,0.33,0.8200000000000001,0.17,0.75,0.24,0.46,0.18
+SR Tendulkar,AD Gaekwad,R Dravid,SM Gavaskar,DB Vengsarkar,V Kohli,DR Doshi,SLV Raju,AB Agarkar,S Venkataraghavan,BS Bedi,0.79,0.86,0.05,0.77,0.42,0.05,0.28,0.45
+M Azharuddin,S Ramesh,NS Sidhu,G Gambhir,V Sehwag,S Abid Ali,S Venkataraghavan,BS Chandrasekhar,I Sharma,BS Bedi,SLV Raju,0.6,0.68,0.32,0.31,0.1,0.91,0.13,0.34
+MAK Pataudi,ED Solkar,VVS Laxman,Yashpal Sharma,NR Mongia,SV Manjrekar,Maninder Singh,NS Yadav,DR Doshi,S Sreesanth,PP Ojha,0.77,0.65,0.29,0.33,0.68,0.45,0.86,0.97
+S Ramesh,MS Dhoni,VVS Laxman,NR Mongia,SC Ganguly,W Jaffer,KD Ghavri,PP Ojha,AB Agarkar,R Ashwin,I Sharma,0.99,0.53,0.2,0.67,0.85,0.72,0.54,0.98
+SS Das,Yashpal Sharma,KS More,DN Sardesai,SV Manjrekar,CA Pujara,I Sharma,KD Ghavri,Maninder Singh,PP Ojha,DR Doshi,0.43,0.9400000000000001,0.52,0.58,0.71,0.11,0.92,0.5700000000000001
+SMH Kirmani,W Jaffer,S Abid Ali,DB Vengsarkar,SC Ganguly,NS Sidhu,EAS Prasanna,DR Doshi,SLV Raju,S Sreesanth,C Sharma,0.03,0.54,0.92,0.61,0.24,0.42,0.91,0.85
+SC Ganguly,CPS Chauhan,G Gambhir,NR Mongia,SM Gavaskar,M Amarnath,DR Doshi,BS Bedi,EAS Prasanna,Maninder Singh,S Sreesanth,0.88,0.75,0.29,0.39,0.24,0.8,0.41000000000000003,0.26
+M Azharuddin,FM Engineer,NR Mongia,SS Das,DN Sardesai,ED Solkar,R Ashwin,C Sharma,KD Ghavri,BKV Prasad,I Sharma,0.28,0.91,0.79,0.47000000000000003,0.56,0.79,0.86,0.87
+MAK Pataudi,GR Viswanath,V Sehwag,AL Wadekar,Yuvraj Singh,SC Ganguly,S Venkataraghavan,AB Agarkar,DR Doshi,C Sharma,PP Ojha,0.51,0.43,0.99,0.09,0.2,0.79,0.1,0.93
+S Ramesh,CPS Chauhan,R Dravid,M Amarnath,CA Pujara,SR Tendulkar,KD Ghavri,NS Yadav,PP Ojha,DR Doshi,EAS Prasanna,0.96,0.12,0.5,0.76,0.72,0.5700000000000001,0.72,0.19
+M Amarnath,V Kohli,SV Manjrekar,R Dravid,K Srikkanth,SMH Kirmani,EAS Prasanna,BKV Prasad,NS Yadav,DR Doshi,R Ashwin,0.79,0.2,0.79,0.9500000000000001,0.81,0.32,0.8300000000000001,0.99
+ED Solkar,M Vijay,AD Gaekwad,DN Sardesai,K Srikkanth,Yuvraj Singh,C Sharma,EAS Prasanna,BS Chandrasekhar,KD Ghavri,Maninder Singh,0.62,0.79,0.91,0.59,0.12,0.4,0.87,0.9400000000000001
+M Amarnath,NS Sidhu,CPS Chauhan,G Gambhir,GR Viswanath,W Jaffer,S Venkataraghavan,BKV Prasad,NS Yadav,SLV Raju,EAS Prasanna,0.14,0.39,0.01,0.58,0.19,0.38,0.43,0.77
+DN Sardesai,M Azharuddin,SM Gavaskar,SR Tendulkar,AL Wadekar,NS Sidhu,C Sharma,KD Ghavri,BS Bedi,NS Yadav,AB Agarkar,0.27,0.37,0.06,0.81,0.67,0.0,0.48,0.72
+M Vijay,Yuvraj Singh,ED Solkar,SC Ganguly,G Gambhir,VVS Laxman,S Venkataraghavan,Maninder Singh,SLV Raju,S Sreesanth,C Sharma,0.43,0.81,0.47000000000000003,0.99,0.35000000000000003,0.47000000000000003,0.29,0.32
+M Vijay,V Sehwag,FM Engineer,KS More,SMH Kirmani,G Gambhir,S Sreesanth,BS Bedi,SLV Raju,C Sharma,BS Chandrasekhar,0.42,0.5700000000000001,0.9500000000000001,0.72,0.62,0.26,0.3,0.47000000000000003
+NR Mongia,VVS Laxman,CA Pujara,W Jaffer,MAK Pataudi,V Kohli,S Venkataraghavan,EAS Prasanna,KD Ghavri,NS Yadav,Maninder Singh,0.52,0.05,0.88,0.38,0.03,0.13,0.8300000000000001,0.32
+M Azharuddin,SC Ganguly,G Gambhir,SM Patil,CPS Chauhan,CA Pujara,EAS Prasanna,PP Ojha,BS Chandrasekhar,KD Ghavri,BS Bedi,0.01,0.6,0.02,0.2,0.53,0.54,0.0,0.24
+NS Sidhu,CA Pujara,MAK Pataudi,V Kohli,M Azharuddin,ED Solkar,DR Doshi,KD Ghavri,BKV Prasad,AB Agarkar,I Sharma,0.4,0.59,0.87,0.9400000000000001,0.84,0.36,0.8,0.21
